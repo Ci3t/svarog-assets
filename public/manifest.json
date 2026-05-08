@@ -1,0 +1,5816 @@
+﻿[
+    {
+        "path":  "assets/genshin/characters/Aino_icon.webp",
+        "category":  "characters",
+        "name":  "Aino_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Aino_splash.png",
+        "category":  "characters",
+        "name":  "Aino_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Albedo_icon.webp",
+        "category":  "characters",
+        "name":  "Albedo_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Albedo_splash.png",
+        "category":  "characters",
+        "name":  "Albedo_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Alhaitham_icon.webp",
+        "category":  "characters",
+        "name":  "Alhaitham_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Alhaitham_splash.png",
+        "category":  "characters",
+        "name":  "Alhaitham_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Aloy_icon.webp",
+        "category":  "characters",
+        "name":  "Aloy_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Aloy_splash.png",
+        "category":  "characters",
+        "name":  "Aloy_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Amber_icon.webp",
+        "category":  "characters",
+        "name":  "Amber_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Amber_splash.png",
+        "category":  "characters",
+        "name":  "Amber_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Arataki_Itto_icon.webp",
+        "category":  "characters",
+        "name":  "Arataki_Itto_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Arataki_Itto_splash.png",
+        "category":  "characters",
+        "name":  "Arataki_Itto_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Arlecchino_icon.webp",
+        "category":  "characters",
+        "name":  "Arlecchino_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Arlecchino_splash.png",
+        "category":  "characters",
+        "name":  "Arlecchino_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Baizhu_icon.webp",
+        "category":  "characters",
+        "name":  "Baizhu_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Baizhu_splash.png",
+        "category":  "characters",
+        "name":  "Baizhu_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Barbara_icon.webp",
+        "category":  "characters",
+        "name":  "Barbara_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Barbara_splash.png",
+        "category":  "characters",
+        "name":  "Barbara_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Beidou_icon.webp",
+        "category":  "characters",
+        "name":  "Beidou_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Beidou_splash.png",
+        "category":  "characters",
+        "name":  "Beidou_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Bennett_icon.webp",
+        "category":  "characters",
+        "name":  "Bennett_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Bennett_splash.png",
+        "category":  "characters",
+        "name":  "Bennett_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Candace_icon.webp",
+        "category":  "characters",
+        "name":  "Candace_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Candace_splash.png",
+        "category":  "characters",
+        "name":  "Candace_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Aino_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Aino_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Albedo_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Albedo_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Alhaitham_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Alhaitham_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Aloy_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Aloy_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Amber_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Amber_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Arataki_Itto_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Arataki_Itto_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Arlecchino_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Arlecchino_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Baizhu_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Baizhu_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Barbara_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Barbara_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Beidou_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Beidou_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Bennett_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Bennett_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Candace_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Candace_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Charlotte_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Charlotte_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Chasca_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Chasca_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Chevreuse_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Chevreuse_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Chiori_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Chiori_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Chongyun_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Chongyun_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Citlali_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Citlali_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Clorinde_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Clorinde_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Collei_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Collei_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Columbina_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Columbina_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Cyno_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Cyno_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Dahlia_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Dahlia_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Dehya_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Dehya_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Diluc_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Diluc_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Diona_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Diona_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Dori_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Dori_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Durin_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Durin_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Emilie_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Emilie_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Escoffier_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Escoffier_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Eula_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Eula_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Faruzan_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Faruzan_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Fischl_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Fischl_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Flins_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Flins_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Freminet_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Freminet_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Furina_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Furina_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Gaming_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Gaming_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Ganyu_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Ganyu_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Gorou_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Gorou_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Hu_Tao_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Hu_Tao_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Iansan_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Iansan_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Ifa_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Ifa_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Illuga_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Illuga_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Ineffa_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Ineffa_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Jahoda_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Jahoda_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Jean_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Jean_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kachina_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kachina_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kaedehara_Kazuha_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kaedehara_Kazuha_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kaeya_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kaeya_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kamisato_Ayaka_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kamisato_Ayaka_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kamisato_Ayato_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kamisato_Ayato_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kaveh_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kaveh_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Keqing_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Keqing_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kinich_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kinich_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kirara_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kirara_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Klee_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Klee_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kujou_Sara_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kujou_Sara_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Kuki_Shinobu_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Kuki_Shinobu_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Lan_Yan_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Lan_Yan_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Lauma_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Lauma_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Layla_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Layla_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Lisa_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Lisa_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Lynette_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Lynette_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Lyney_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Lyney_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Mavuika_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Mavuika_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Mika_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Mika_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Mona_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Mona_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Mualani_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Mualani_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Nahida_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Nahida_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Navia_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Navia_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Nefer_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Nefer_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Neuvillette_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Neuvillette_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Nilou_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Nilou_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Ningguang_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Ningguang_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Noelle_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Noelle_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Ororon_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Ororon_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Qiqi_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Qiqi_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Raiden_Shogun_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Raiden_Shogun_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Razor_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Razor_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Rosaria_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Rosaria_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Sangonomiya_Kokomi_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Sangonomiya_Kokomi_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Sayu_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Sayu_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Sethos_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Sethos_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Shenhe_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Shenhe_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Shikanoin_Heizou_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Shikanoin_Heizou_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Sigewinne_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Sigewinne_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Skirk_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Skirk_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Sucrose_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Sucrose_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Tartaglia_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Tartaglia_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Thoma_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Thoma_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Tighnari_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Tighnari_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Varesa_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Varesa_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Varka_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Varka_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Venti_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Venti_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Wanderer_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Wanderer_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Wriothesley_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Wriothesley_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xiangling_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xiangling_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xianyun_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xianyun_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xiao_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xiao_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xilonen_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xilonen_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xingqiu_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xingqiu_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Xinyan_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Xinyan_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yae_Miko_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yae_Miko_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yanfei_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yanfei_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yaoyao_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yaoyao_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yelan_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yelan_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yoimiya_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yoimiya_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yumemizuki_Mizuki_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yumemizuki_Mizuki_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Yun_Jin_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Yun_Jin_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Zhongli_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Zhongli_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Character_Zibai_Full_splash.png",
+        "category":  "characters",
+        "name":  "Character_Zibai_Full_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Charlotte_icon.webp",
+        "category":  "characters",
+        "name":  "Charlotte_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Charlotte_splash.png",
+        "category":  "characters",
+        "name":  "Charlotte_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chasca_icon.webp",
+        "category":  "characters",
+        "name":  "Chasca_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chasca_splash.png",
+        "category":  "characters",
+        "name":  "Chasca_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chevreuse_icon.webp",
+        "category":  "characters",
+        "name":  "Chevreuse_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chevreuse_splash.png",
+        "category":  "characters",
+        "name":  "Chevreuse_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chiori_icon.webp",
+        "category":  "characters",
+        "name":  "Chiori_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chiori_splash.png",
+        "category":  "characters",
+        "name":  "Chiori_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chongyun_icon.webp",
+        "category":  "characters",
+        "name":  "Chongyun_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Chongyun_splash.png",
+        "category":  "characters",
+        "name":  "Chongyun_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Citlali_icon.webp",
+        "category":  "characters",
+        "name":  "Citlali_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Citlali_splash.png",
+        "category":  "characters",
+        "name":  "Citlali_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Clorinde_icon.webp",
+        "category":  "characters",
+        "name":  "Clorinde_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Clorinde_splash.png",
+        "category":  "characters",
+        "name":  "Clorinde_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Collei_icon.webp",
+        "category":  "characters",
+        "name":  "Collei_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Collei_splash.png",
+        "category":  "characters",
+        "name":  "Collei_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Columbina_icon.webp",
+        "category":  "characters",
+        "name":  "Columbina_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Columbina_splash.png",
+        "category":  "characters",
+        "name":  "Columbina_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Cyno_icon.webp",
+        "category":  "characters",
+        "name":  "Cyno_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Cyno_splash.png",
+        "category":  "characters",
+        "name":  "Cyno_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dahlia_icon.webp",
+        "category":  "characters",
+        "name":  "Dahlia_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dahlia_splash.png",
+        "category":  "characters",
+        "name":  "Dahlia_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dehya_icon.webp",
+        "category":  "characters",
+        "name":  "Dehya_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dehya_splash.png",
+        "category":  "characters",
+        "name":  "Dehya_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Diluc_icon.webp",
+        "category":  "characters",
+        "name":  "Diluc_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Diluc_splash.png",
+        "category":  "characters",
+        "name":  "Diluc_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Diona_icon.webp",
+        "category":  "characters",
+        "name":  "Diona_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Diona_splash.png",
+        "category":  "characters",
+        "name":  "Diona_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dori_icon.webp",
+        "category":  "characters",
+        "name":  "Dori_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Dori_splash.png",
+        "category":  "characters",
+        "name":  "Dori_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Durin_icon.webp",
+        "category":  "characters",
+        "name":  "Durin_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Durin_splash.png",
+        "category":  "characters",
+        "name":  "Durin_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Emilie_icon.webp",
+        "category":  "characters",
+        "name":  "Emilie_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Emilie_splash.png",
+        "category":  "characters",
+        "name":  "Emilie_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Escoffier_icon.webp",
+        "category":  "characters",
+        "name":  "Escoffier_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Escoffier_splash.png",
+        "category":  "characters",
+        "name":  "Escoffier_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Eula_icon.webp",
+        "category":  "characters",
+        "name":  "Eula_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Eula_splash.png",
+        "category":  "characters",
+        "name":  "Eula_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Faruzan_icon.webp",
+        "category":  "characters",
+        "name":  "Faruzan_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Faruzan_splash.png",
+        "category":  "characters",
+        "name":  "Faruzan_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Fischl_icon.webp",
+        "category":  "characters",
+        "name":  "Fischl_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Fischl_splash.png",
+        "category":  "characters",
+        "name":  "Fischl_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Flins_icon.webp",
+        "category":  "characters",
+        "name":  "Flins_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Flins_splash.png",
+        "category":  "characters",
+        "name":  "Flins_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Freminet_icon.webp",
+        "category":  "characters",
+        "name":  "Freminet_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Freminet_splash.png",
+        "category":  "characters",
+        "name":  "Freminet_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Furina_icon.webp",
+        "category":  "characters",
+        "name":  "Furina_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Furina_splash.png",
+        "category":  "characters",
+        "name":  "Furina_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Gaming_icon.webp",
+        "category":  "characters",
+        "name":  "Gaming_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Gaming_splash.png",
+        "category":  "characters",
+        "name":  "Gaming_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ganyu_icon.webp",
+        "category":  "characters",
+        "name":  "Ganyu_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ganyu_splash.png",
+        "category":  "characters",
+        "name":  "Ganyu_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Gorou_icon.webp",
+        "category":  "characters",
+        "name":  "Gorou_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Gorou_splash.png",
+        "category":  "characters",
+        "name":  "Gorou_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Hu_Tao_icon.webp",
+        "category":  "characters",
+        "name":  "Hu_Tao_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Hu_Tao_splash.png",
+        "category":  "characters",
+        "name":  "Hu_Tao_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Iansan_icon.webp",
+        "category":  "characters",
+        "name":  "Iansan_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Iansan_splash.png",
+        "category":  "characters",
+        "name":  "Iansan_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ifa_icon.webp",
+        "category":  "characters",
+        "name":  "Ifa_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ifa_splash.png",
+        "category":  "characters",
+        "name":  "Ifa_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Illuga_icon.webp",
+        "category":  "characters",
+        "name":  "Illuga_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Illuga_splash.png",
+        "category":  "characters",
+        "name":  "Illuga_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ineffa_icon.webp",
+        "category":  "characters",
+        "name":  "Ineffa_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ineffa_splash.png",
+        "category":  "characters",
+        "name":  "Ineffa_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Jahoda_icon.webp",
+        "category":  "characters",
+        "name":  "Jahoda_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Jahoda_splash.png",
+        "category":  "characters",
+        "name":  "Jahoda_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Jean_icon.webp",
+        "category":  "characters",
+        "name":  "Jean_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Jean_splash.png",
+        "category":  "characters",
+        "name":  "Jean_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kachina_icon.webp",
+        "category":  "characters",
+        "name":  "Kachina_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kachina_splash.png",
+        "category":  "characters",
+        "name":  "Kachina_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaedehara_Kazuha_icon.webp",
+        "category":  "characters",
+        "name":  "Kaedehara_Kazuha_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaedehara_Kazuha_splash.png",
+        "category":  "characters",
+        "name":  "Kaedehara_Kazuha_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaeya_icon.webp",
+        "category":  "characters",
+        "name":  "Kaeya_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaeya_splash.png",
+        "category":  "characters",
+        "name":  "Kaeya_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kamisato_Ayaka_icon.webp",
+        "category":  "characters",
+        "name":  "Kamisato_Ayaka_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kamisato_Ayaka_splash.png",
+        "category":  "characters",
+        "name":  "Kamisato_Ayaka_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kamisato_Ayato_icon.webp",
+        "category":  "characters",
+        "name":  "Kamisato_Ayato_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kamisato_Ayato_splash.png",
+        "category":  "characters",
+        "name":  "Kamisato_Ayato_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaveh_icon.webp",
+        "category":  "characters",
+        "name":  "Kaveh_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kaveh_splash.png",
+        "category":  "characters",
+        "name":  "Kaveh_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Keqing_icon.webp",
+        "category":  "characters",
+        "name":  "Keqing_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Keqing_splash.png",
+        "category":  "characters",
+        "name":  "Keqing_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kinich_icon.webp",
+        "category":  "characters",
+        "name":  "Kinich_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kinich_splash.png",
+        "category":  "characters",
+        "name":  "Kinich_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kirara_icon.webp",
+        "category":  "characters",
+        "name":  "Kirara_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kirara_splash.png",
+        "category":  "characters",
+        "name":  "Kirara_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Klee_icon.webp",
+        "category":  "characters",
+        "name":  "Klee_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Klee_splash.png",
+        "category":  "characters",
+        "name":  "Klee_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kujou_Sara_icon.webp",
+        "category":  "characters",
+        "name":  "Kujou_Sara_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kujou_Sara_splash.png",
+        "category":  "characters",
+        "name":  "Kujou_Sara_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kuki_Shinobu_icon.webp",
+        "category":  "characters",
+        "name":  "Kuki_Shinobu_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Kuki_Shinobu_splash.png",
+        "category":  "characters",
+        "name":  "Kuki_Shinobu_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lan_Yan_icon.webp",
+        "category":  "characters",
+        "name":  "Lan_Yan_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lan_Yan_splash.png",
+        "category":  "characters",
+        "name":  "Lan_Yan_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lauma_icon.webp",
+        "category":  "characters",
+        "name":  "Lauma_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lauma_splash.png",
+        "category":  "characters",
+        "name":  "Lauma_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Layla_icon.webp",
+        "category":  "characters",
+        "name":  "Layla_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Layla_splash.png",
+        "category":  "characters",
+        "name":  "Layla_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Linnea_icon.webp",
+        "category":  "characters",
+        "name":  "Linnea_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lisa_icon.webp",
+        "category":  "characters",
+        "name":  "Lisa_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lisa_splash.png",
+        "category":  "characters",
+        "name":  "Lisa_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lohen_icon.webp",
+        "category":  "characters",
+        "name":  "Lohen_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lynette_icon.webp",
+        "category":  "characters",
+        "name":  "Lynette_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lynette_splash.png",
+        "category":  "characters",
+        "name":  "Lynette_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lyney_icon.webp",
+        "category":  "characters",
+        "name":  "Lyney_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Lyney_splash.png",
+        "category":  "characters",
+        "name":  "Lyney_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Manekina_icon.webp",
+        "category":  "characters",
+        "name":  "Manekina_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Manekin_icon.webp",
+        "category":  "characters",
+        "name":  "Manekin_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mavuika_icon.webp",
+        "category":  "characters",
+        "name":  "Mavuika_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mavuika_splash.png",
+        "category":  "characters",
+        "name":  "Mavuika_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mika_icon.webp",
+        "category":  "characters",
+        "name":  "Mika_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mika_splash.png",
+        "category":  "characters",
+        "name":  "Mika_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mona_icon.webp",
+        "category":  "characters",
+        "name":  "Mona_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mona_splash.png",
+        "category":  "characters",
+        "name":  "Mona_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mualani_icon.webp",
+        "category":  "characters",
+        "name":  "Mualani_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Mualani_splash.png",
+        "category":  "characters",
+        "name":  "Mualani_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nahida_icon.webp",
+        "category":  "characters",
+        "name":  "Nahida_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nahida_splash.png",
+        "category":  "characters",
+        "name":  "Nahida_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Navia_icon.webp",
+        "category":  "characters",
+        "name":  "Navia_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Navia_splash.png",
+        "category":  "characters",
+        "name":  "Navia_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nefer_icon.webp",
+        "category":  "characters",
+        "name":  "Nefer_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nefer_splash.png",
+        "category":  "characters",
+        "name":  "Nefer_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Neuvillette_icon.webp",
+        "category":  "characters",
+        "name":  "Neuvillette_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Neuvillette_splash.png",
+        "category":  "characters",
+        "name":  "Neuvillette_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nicole_icon.webp",
+        "category":  "characters",
+        "name":  "Nicole_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nilou_icon.webp",
+        "category":  "characters",
+        "name":  "Nilou_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Nilou_splash.png",
+        "category":  "characters",
+        "name":  "Nilou_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ningguang_icon.webp",
+        "category":  "characters",
+        "name":  "Ningguang_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ningguang_splash.png",
+        "category":  "characters",
+        "name":  "Ningguang_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Noelle_icon.webp",
+        "category":  "characters",
+        "name":  "Noelle_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Noelle_splash.png",
+        "category":  "characters",
+        "name":  "Noelle_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ororon_icon.webp",
+        "category":  "characters",
+        "name":  "Ororon_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Ororon_splash.png",
+        "category":  "characters",
+        "name":  "Ororon_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Prune_icon.webp",
+        "category":  "characters",
+        "name":  "Prune_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Qiqi_icon.webp",
+        "category":  "characters",
+        "name":  "Qiqi_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Qiqi_splash.png",
+        "category":  "characters",
+        "name":  "Qiqi_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Raiden_Shogun_icon.webp",
+        "category":  "characters",
+        "name":  "Raiden_Shogun_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Raiden_Shogun_splash.png",
+        "category":  "characters",
+        "name":  "Raiden_Shogun_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Razor_icon.webp",
+        "category":  "characters",
+        "name":  "Razor_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Razor_splash.png",
+        "category":  "characters",
+        "name":  "Razor_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Rosaria_icon.webp",
+        "category":  "characters",
+        "name":  "Rosaria_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Rosaria_splash.png",
+        "category":  "characters",
+        "name":  "Rosaria_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sangonomiya_Kokomi_icon.webp",
+        "category":  "characters",
+        "name":  "Sangonomiya_Kokomi_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sangonomiya_Kokomi_splash.png",
+        "category":  "characters",
+        "name":  "Sangonomiya_Kokomi_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sayu_icon.webp",
+        "category":  "characters",
+        "name":  "Sayu_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sayu_splash.png",
+        "category":  "characters",
+        "name":  "Sayu_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sethos_icon.webp",
+        "category":  "characters",
+        "name":  "Sethos_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sethos_splash.png",
+        "category":  "characters",
+        "name":  "Sethos_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Shenhe_icon.webp",
+        "category":  "characters",
+        "name":  "Shenhe_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Shenhe_splash.png",
+        "category":  "characters",
+        "name":  "Shenhe_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Shikanoin_Heizou_icon.webp",
+        "category":  "characters",
+        "name":  "Shikanoin_Heizou_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Shikanoin_Heizou_splash.png",
+        "category":  "characters",
+        "name":  "Shikanoin_Heizou_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sigewinne_icon.webp",
+        "category":  "characters",
+        "name":  "Sigewinne_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sigewinne_splash.png",
+        "category":  "characters",
+        "name":  "Sigewinne_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Skirk_icon.webp",
+        "category":  "characters",
+        "name":  "Skirk_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Skirk_splash.png",
+        "category":  "characters",
+        "name":  "Skirk_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sucrose_icon.webp",
+        "category":  "characters",
+        "name":  "Sucrose_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Sucrose_splash.png",
+        "category":  "characters",
+        "name":  "Sucrose_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Tartaglia_icon.webp",
+        "category":  "characters",
+        "name":  "Tartaglia_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Tartaglia_splash.png",
+        "category":  "characters",
+        "name":  "Tartaglia_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Thoma_icon.webp",
+        "category":  "characters",
+        "name":  "Thoma_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Thoma_splash.png",
+        "category":  "characters",
+        "name":  "Thoma_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Tighnari_icon.webp",
+        "category":  "characters",
+        "name":  "Tighnari_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Tighnari_splash.png",
+        "category":  "characters",
+        "name":  "Tighnari_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Traveler_icon.webp",
+        "category":  "characters",
+        "name":  "Traveler_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Varesa_icon.webp",
+        "category":  "characters",
+        "name":  "Varesa_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Varesa_splash.png",
+        "category":  "characters",
+        "name":  "Varesa_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Varka_icon.webp",
+        "category":  "characters",
+        "name":  "Varka_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Varka_splash.png",
+        "category":  "characters",
+        "name":  "Varka_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Venti_icon.webp",
+        "category":  "characters",
+        "name":  "Venti_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Venti_splash.png",
+        "category":  "characters",
+        "name":  "Venti_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Wanderer_icon.webp",
+        "category":  "characters",
+        "name":  "Wanderer_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Wanderer_splash.png",
+        "category":  "characters",
+        "name":  "Wanderer_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Wonderland_Manekin_splash.png",
+        "category":  "characters",
+        "name":  "Wonderland_Manekin_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Wriothesley_icon.webp",
+        "category":  "characters",
+        "name":  "Wriothesley_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Wriothesley_splash.png",
+        "category":  "characters",
+        "name":  "Wriothesley_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xiangling_icon.webp",
+        "category":  "characters",
+        "name":  "Xiangling_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xiangling_splash.png",
+        "category":  "characters",
+        "name":  "Xiangling_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xianyun_icon.webp",
+        "category":  "characters",
+        "name":  "Xianyun_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xianyun_splash.png",
+        "category":  "characters",
+        "name":  "Xianyun_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xiao_icon.webp",
+        "category":  "characters",
+        "name":  "Xiao_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xiao_splash.png",
+        "category":  "characters",
+        "name":  "Xiao_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xilonen_icon.webp",
+        "category":  "characters",
+        "name":  "Xilonen_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xilonen_splash.png",
+        "category":  "characters",
+        "name":  "Xilonen_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xingqiu_icon.webp",
+        "category":  "characters",
+        "name":  "Xingqiu_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xingqiu_splash.png",
+        "category":  "characters",
+        "name":  "Xingqiu_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xinyan_icon.webp",
+        "category":  "characters",
+        "name":  "Xinyan_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Xinyan_splash.png",
+        "category":  "characters",
+        "name":  "Xinyan_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yae_Miko_icon.webp",
+        "category":  "characters",
+        "name":  "Yae_Miko_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yae_Miko_splash.png",
+        "category":  "characters",
+        "name":  "Yae_Miko_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yanfei_icon.webp",
+        "category":  "characters",
+        "name":  "Yanfei_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yanfei_splash.png",
+        "category":  "characters",
+        "name":  "Yanfei_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yaoyao_icon.webp",
+        "category":  "characters",
+        "name":  "Yaoyao_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yaoyao_splash.png",
+        "category":  "characters",
+        "name":  "Yaoyao_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yelan_icon.webp",
+        "category":  "characters",
+        "name":  "Yelan_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yelan_splash.png",
+        "category":  "characters",
+        "name":  "Yelan_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yoimiya_icon.webp",
+        "category":  "characters",
+        "name":  "Yoimiya_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yoimiya_splash.png",
+        "category":  "characters",
+        "name":  "Yoimiya_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yumemizuki_Mizuki_icon.webp",
+        "category":  "characters",
+        "name":  "Yumemizuki_Mizuki_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yumemizuki_Mizuki_splash.png",
+        "category":  "characters",
+        "name":  "Yumemizuki_Mizuki_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yun_Jin_icon.webp",
+        "category":  "characters",
+        "name":  "Yun_Jin_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Yun_Jin_splash.png",
+        "category":  "characters",
+        "name":  "Yun_Jin_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Zhongli_icon.webp",
+        "category":  "characters",
+        "name":  "Zhongli_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Zhongli_splash.png",
+        "category":  "characters",
+        "name":  "Zhongli_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Zibai_icon.webp",
+        "category":  "characters",
+        "name":  "Zibai_icon.webp",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/characters/Zibai_splash.png",
+        "category":  "characters",
+        "name":  "Zibai_splash.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Absolution.png",
+        "category":  "weapons",
+        "name":  "Absolution.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Amos\u0027_Bow.png",
+        "category":  "weapons",
+        "name":  "Amos\u0027_Bow.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Aqua_Simulacra.png",
+        "category":  "weapons",
+        "name":  "Aqua_Simulacra.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Aquila_Favonia.png",
+        "category":  "weapons",
+        "name":  "Aquila_Favonia.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Astral_Vulture\u0027s_Crimson_Plumage.png",
+        "category":  "weapons",
+        "name":  "Astral_Vulture\u0027s_Crimson_Plumage.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Athame_Artis.png",
+        "category":  "weapons",
+        "name":  "Athame_Artis.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Azurelight.png",
+        "category":  "weapons",
+        "name":  "Azurelight.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/A_Thousand_Blazing_Suns.png",
+        "category":  "weapons",
+        "name":  "A_Thousand_Blazing_Suns.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/A_Thousand_Floating_Dreams.png",
+        "category":  "weapons",
+        "name":  "A_Thousand_Floating_Dreams.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Beacon_of_the_Reed_Sea.png",
+        "category":  "weapons",
+        "name":  "Beacon_of_the_Reed_Sea.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Bloodsoaked_Ruins.png",
+        "category":  "weapons",
+        "name":  "Bloodsoaked_Ruins.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Calamity_Queller.png",
+        "category":  "weapons",
+        "name":  "Calamity_Queller.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Cashflow_Supervision.png",
+        "category":  "weapons",
+        "name":  "Cashflow_Supervision.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Crane\u0027s_Echoing_Call.png",
+        "category":  "weapons",
+        "name":  "Crane\u0027s_Echoing_Call.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Crimson_Moon\u0027s_Semblance.png",
+        "category":  "weapons",
+        "name":  "Crimson_Moon\u0027s_Semblance.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Elegy_for_the_End.png",
+        "category":  "weapons",
+        "name":  "Elegy_for_the_End.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Engulfing_Lightning.png",
+        "category":  "weapons",
+        "name":  "Engulfing_Lightning.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Everlasting_Moonglow.png",
+        "category":  "weapons",
+        "name":  "Everlasting_Moonglow.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Fang_of_the_Mountain_King.png",
+        "category":  "weapons",
+        "name":  "Fang_of_the_Mountain_King.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Fractured_Halo.png",
+        "category":  "weapons",
+        "name":  "Fractured_Halo.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Freedom-Sworn.png",
+        "category":  "weapons",
+        "name":  "Freedom-Sworn.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Gest_of_the_Mighty_Wolf.png",
+        "category":  "weapons",
+        "name":  "Gest_of_the_Mighty_Wolf.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Golden_Frostbound_Oath.png",
+        "category":  "weapons",
+        "name":  "Golden_Frostbound_Oath.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Haran_Geppaku_Futsu.png",
+        "category":  "weapons",
+        "name":  "Haran_Geppaku_Futsu.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Hunter\u0027s_Path.png",
+        "category":  "weapons",
+        "name":  "Hunter\u0027s_Path.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Jadefall\u0027s_Splendor.png",
+        "category":  "weapons",
+        "name":  "Jadefall\u0027s_Splendor.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Kagura\u0027s_Verity.png",
+        "category":  "weapons",
+        "name":  "Kagura\u0027s_Verity.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Key_of_Khaj-Nisut.png",
+        "category":  "weapons",
+        "name":  "Key_of_Khaj-Nisut.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Lightbearing_Moonshard.png",
+        "category":  "weapons",
+        "name":  "Lightbearing_Moonshard.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Light_of_Foliar_Incision.png",
+        "category":  "weapons",
+        "name":  "Light_of_Foliar_Incision.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Lost_Prayer_to_the_Sacred_Winds.png",
+        "category":  "weapons",
+        "name":  "Lost_Prayer_to_the_Sacred_Winds.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Lumidouce_Elegy.png",
+        "category":  "weapons",
+        "name":  "Lumidouce_Elegy.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Memory_of_Dust.png",
+        "category":  "weapons",
+        "name":  "Memory_of_Dust.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Mistsplitter_Reforged.png",
+        "category":  "weapons",
+        "name":  "Mistsplitter_Reforged.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Nightweaver\u0027s_Looking_Glass.png",
+        "category":  "weapons",
+        "name":  "Nightweaver\u0027s_Looking_Glass.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Nocturne\u0027s_Curtain_Call.png",
+        "category":  "weapons",
+        "name":  "Nocturne\u0027s_Curtain_Call.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Peak_Patrol_Song.png",
+        "category":  "weapons",
+        "name":  "Peak_Patrol_Song.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Polar_Star.png",
+        "category":  "weapons",
+        "name":  "Polar_Star.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Primordial_Jade_Cutter.png",
+        "category":  "weapons",
+        "name":  "Primordial_Jade_Cutter.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Primordial_Jade_Winged-Spear.png",
+        "category":  "weapons",
+        "name":  "Primordial_Jade_Winged-Spear.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Redhorn_Stonethresher.png",
+        "category":  "weapons",
+        "name":  "Redhorn_Stonethresher.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Reliquary_of_Truth.png",
+        "category":  "weapons",
+        "name":  "Reliquary_of_Truth.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Silvershower_Heartstrings.png",
+        "category":  "weapons",
+        "name":  "Silvershower_Heartstrings.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Skyward_Atlas.png",
+        "category":  "weapons",
+        "name":  "Skyward_Atlas.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Skyward_Blade.png",
+        "category":  "weapons",
+        "name":  "Skyward_Blade.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Skyward_Harp.png",
+        "category":  "weapons",
+        "name":  "Skyward_Harp.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Skyward_Pride.png",
+        "category":  "weapons",
+        "name":  "Skyward_Pride.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Skyward_Spine.png",
+        "category":  "weapons",
+        "name":  "Skyward_Spine.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Song_of_Broken_Pines.png",
+        "category":  "weapons",
+        "name":  "Song_of_Broken_Pines.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Splendor_of_Tranquil_Waters.png",
+        "category":  "weapons",
+        "name":  "Splendor_of_Tranquil_Waters.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Staff_of_Homa.png",
+        "category":  "weapons",
+        "name":  "Staff_of_Homa.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Staff_of_the_Scarlet_Sands.png",
+        "category":  "weapons",
+        "name":  "Staff_of_the_Scarlet_Sands.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Starcaller\u0027s_Watch.png",
+        "category":  "weapons",
+        "name":  "Starcaller\u0027s_Watch.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Summit_Shaper.png",
+        "category":  "weapons",
+        "name":  "Summit_Shaper.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Sunny_Morning_Sleep-In.png",
+        "category":  "weapons",
+        "name":  "Sunny_Morning_Sleep-In.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Surf\u0027s_Up.png",
+        "category":  "weapons",
+        "name":  "Surf\u0027s_Up.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Symphonist_of_Scents.png",
+        "category":  "weapons",
+        "name":  "Symphonist_of_Scents.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/The_Daybreak_Chronicles.png",
+        "category":  "weapons",
+        "name":  "The_Daybreak_Chronicles.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/The_First_Great_Magic.png",
+        "category":  "weapons",
+        "name":  "The_First_Great_Magic.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/The_Unforged.png",
+        "category":  "weapons",
+        "name":  "The_Unforged.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Thundering_Pulse.png",
+        "category":  "weapons",
+        "name":  "Thundering_Pulse.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Tome_of_the_Eternal_Flow.png",
+        "category":  "weapons",
+        "name":  "Tome_of_the_Eternal_Flow.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Tulaytullah\u0027s_Remembrance.png",
+        "category":  "weapons",
+        "name":  "Tulaytullah\u0027s_Remembrance.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Uraku_Misugiri.png",
+        "category":  "weapons",
+        "name":  "Uraku_Misugiri.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Verdict.png",
+        "category":  "weapons",
+        "name":  "Verdict.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Vivid_Notions.png",
+        "category":  "weapons",
+        "name":  "Vivid_Notions.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Vortex_Vanquisher.png",
+        "category":  "weapons",
+        "name":  "Vortex_Vanquisher.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/genshin/weapons/Wolf\u0027s_Gravestone.png",
+        "category":  "weapons",
+        "name":  "Wolf\u0027s_Gravestone.png",
+        "game":  "genshin"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1001.png",
+        "category":  "character_icon",
+        "name":  "1001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1002.png",
+        "category":  "character_icon",
+        "name":  "1002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1003.png",
+        "category":  "character_icon",
+        "name":  "1003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1004.png",
+        "category":  "character_icon",
+        "name":  "1004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1005.png",
+        "category":  "character_icon",
+        "name":  "1005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1006.png",
+        "category":  "character_icon",
+        "name":  "1006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1008.png",
+        "category":  "character_icon",
+        "name":  "1008.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1009.png",
+        "category":  "character_icon",
+        "name":  "1009.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1013.png",
+        "category":  "character_icon",
+        "name":  "1013.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1014.png",
+        "category":  "character_icon",
+        "name":  "1014.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1015.png",
+        "category":  "character_icon",
+        "name":  "1015.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1101.png",
+        "category":  "character_icon",
+        "name":  "1101.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1102.png",
+        "category":  "character_icon",
+        "name":  "1102.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1103.png",
+        "category":  "character_icon",
+        "name":  "1103.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1104.png",
+        "category":  "character_icon",
+        "name":  "1104.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1105.png",
+        "category":  "character_icon",
+        "name":  "1105.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1106.png",
+        "category":  "character_icon",
+        "name":  "1106.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1107.png",
+        "category":  "character_icon",
+        "name":  "1107.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1108.png",
+        "category":  "character_icon",
+        "name":  "1108.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1109.png",
+        "category":  "character_icon",
+        "name":  "1109.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1110.png",
+        "category":  "character_icon",
+        "name":  "1110.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1111.png",
+        "category":  "character_icon",
+        "name":  "1111.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1112.png",
+        "category":  "character_icon",
+        "name":  "1112.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1201.png",
+        "category":  "character_icon",
+        "name":  "1201.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1202.png",
+        "category":  "character_icon",
+        "name":  "1202.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1203.png",
+        "category":  "character_icon",
+        "name":  "1203.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1204.png",
+        "category":  "character_icon",
+        "name":  "1204.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1205.png",
+        "category":  "character_icon",
+        "name":  "1205.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1206.png",
+        "category":  "character_icon",
+        "name":  "1206.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1207.png",
+        "category":  "character_icon",
+        "name":  "1207.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1208.png",
+        "category":  "character_icon",
+        "name":  "1208.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1209.png",
+        "category":  "character_icon",
+        "name":  "1209.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1210.png",
+        "category":  "character_icon",
+        "name":  "1210.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1211.png",
+        "category":  "character_icon",
+        "name":  "1211.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1212.png",
+        "category":  "character_icon",
+        "name":  "1212.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1213.png",
+        "category":  "character_icon",
+        "name":  "1213.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1214.png",
+        "category":  "character_icon",
+        "name":  "1214.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1215.png",
+        "category":  "character_icon",
+        "name":  "1215.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1217.png",
+        "category":  "character_icon",
+        "name":  "1217.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1218.png",
+        "category":  "character_icon",
+        "name":  "1218.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1220.png",
+        "category":  "character_icon",
+        "name":  "1220.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1221.png",
+        "category":  "character_icon",
+        "name":  "1221.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1222.png",
+        "category":  "character_icon",
+        "name":  "1222.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1223.png",
+        "category":  "character_icon",
+        "name":  "1223.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1224.png",
+        "category":  "character_icon",
+        "name":  "1224.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1225.png",
+        "category":  "character_icon",
+        "name":  "1225.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1301.png",
+        "category":  "character_icon",
+        "name":  "1301.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1302.png",
+        "category":  "character_icon",
+        "name":  "1302.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1303.png",
+        "category":  "character_icon",
+        "name":  "1303.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1304.png",
+        "category":  "character_icon",
+        "name":  "1304.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1305.png",
+        "category":  "character_icon",
+        "name":  "1305.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1306.png",
+        "category":  "character_icon",
+        "name":  "1306.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1307.png",
+        "category":  "character_icon",
+        "name":  "1307.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1308.png",
+        "category":  "character_icon",
+        "name":  "1308.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1309.png",
+        "category":  "character_icon",
+        "name":  "1309.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1310.png",
+        "category":  "character_icon",
+        "name":  "1310.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1312.png",
+        "category":  "character_icon",
+        "name":  "1312.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1313.png",
+        "category":  "character_icon",
+        "name":  "1313.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1314.png",
+        "category":  "character_icon",
+        "name":  "1314.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1315.png",
+        "category":  "character_icon",
+        "name":  "1315.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1317.png",
+        "category":  "character_icon",
+        "name":  "1317.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1321.png",
+        "category":  "character_icon",
+        "name":  "1321.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1401.png",
+        "category":  "character_icon",
+        "name":  "1401.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1402.png",
+        "category":  "character_icon",
+        "name":  "1402.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1403.png",
+        "category":  "character_icon",
+        "name":  "1403.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1404.png",
+        "category":  "character_icon",
+        "name":  "1404.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1405.png",
+        "category":  "character_icon",
+        "name":  "1405.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1406.png",
+        "category":  "character_icon",
+        "name":  "1406.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1407.png",
+        "category":  "character_icon",
+        "name":  "1407.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1408.png",
+        "category":  "character_icon",
+        "name":  "1408.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1409.png",
+        "category":  "character_icon",
+        "name":  "1409.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1410.png",
+        "category":  "character_icon",
+        "name":  "1410.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1412.png",
+        "category":  "character_icon",
+        "name":  "1412.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1413.png",
+        "category":  "character_icon",
+        "name":  "1413.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1414.png",
+        "category":  "character_icon",
+        "name":  "1414.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1415.png",
+        "category":  "character_icon",
+        "name":  "1415.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1501.png",
+        "category":  "character_icon",
+        "name":  "1501.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1502.png",
+        "category":  "character_icon",
+        "name":  "1502.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1504.png",
+        "category":  "character_icon",
+        "name":  "1504.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1505.png",
+        "category":  "character_icon",
+        "name":  "1505.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/1506.png",
+        "category":  "character_icon",
+        "name":  "1506.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8001.png",
+        "category":  "character_icon",
+        "name":  "8001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8002.png",
+        "category":  "character_icon",
+        "name":  "8002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8003.png",
+        "category":  "character_icon",
+        "name":  "8003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8004.png",
+        "category":  "character_icon",
+        "name":  "8004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8005.png",
+        "category":  "character_icon",
+        "name":  "8005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8006.png",
+        "category":  "character_icon",
+        "name":  "8006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8007.png",
+        "category":  "character_icon",
+        "name":  "8007.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8008.png",
+        "category":  "character_icon",
+        "name":  "8008.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8009.png",
+        "category":  "character_icon",
+        "name":  "8009.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_icon/8010.png",
+        "category":  "character_icon",
+        "name":  "8010.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1001-1.png",
+        "category":  "character_portrait",
+        "name":  "1001-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1002-1.png",
+        "category":  "character_portrait",
+        "name":  "1002-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1003-1.png",
+        "category":  "character_portrait",
+        "name":  "1003-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1004-1.png",
+        "category":  "character_portrait",
+        "name":  "1004-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1005-1.png",
+        "category":  "character_portrait",
+        "name":  "1005-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1006-1.png",
+        "category":  "character_portrait",
+        "name":  "1006-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1008-1.png",
+        "category":  "character_portrait",
+        "name":  "1008-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1009-1.png",
+        "category":  "character_portrait",
+        "name":  "1009-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1013-1.png",
+        "category":  "character_portrait",
+        "name":  "1013-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1014-1.png",
+        "category":  "character_portrait",
+        "name":  "1014-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1015-1.png",
+        "category":  "character_portrait",
+        "name":  "1015-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1101-1.png",
+        "category":  "character_portrait",
+        "name":  "1101-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1102-1.png",
+        "category":  "character_portrait",
+        "name":  "1102-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1103-1.png",
+        "category":  "character_portrait",
+        "name":  "1103-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1104-1.png",
+        "category":  "character_portrait",
+        "name":  "1104-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1105-1.png",
+        "category":  "character_portrait",
+        "name":  "1105-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1106-1.png",
+        "category":  "character_portrait",
+        "name":  "1106-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1107-1.png",
+        "category":  "character_portrait",
+        "name":  "1107-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1108-1.png",
+        "category":  "character_portrait",
+        "name":  "1108-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1109-1.png",
+        "category":  "character_portrait",
+        "name":  "1109-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1110-1.png",
+        "category":  "character_portrait",
+        "name":  "1110-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1111-1.png",
+        "category":  "character_portrait",
+        "name":  "1111-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1112-1.png",
+        "category":  "character_portrait",
+        "name":  "1112-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1201-1.png",
+        "category":  "character_portrait",
+        "name":  "1201-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1202-1.png",
+        "category":  "character_portrait",
+        "name":  "1202-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1203-1.png",
+        "category":  "character_portrait",
+        "name":  "1203-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1204-1.png",
+        "category":  "character_portrait",
+        "name":  "1204-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1205-1.png",
+        "category":  "character_portrait",
+        "name":  "1205-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1206-1.png",
+        "category":  "character_portrait",
+        "name":  "1206-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1207-1.png",
+        "category":  "character_portrait",
+        "name":  "1207-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1208-1.png",
+        "category":  "character_portrait",
+        "name":  "1208-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1209-1.png",
+        "category":  "character_portrait",
+        "name":  "1209-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1210-1.png",
+        "category":  "character_portrait",
+        "name":  "1210-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1211-1.png",
+        "category":  "character_portrait",
+        "name":  "1211-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1212-1.png",
+        "category":  "character_portrait",
+        "name":  "1212-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1213-1.png",
+        "category":  "character_portrait",
+        "name":  "1213-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1214-1.png",
+        "category":  "character_portrait",
+        "name":  "1214-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1215-1.png",
+        "category":  "character_portrait",
+        "name":  "1215-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1217-1.png",
+        "category":  "character_portrait",
+        "name":  "1217-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1218-1.png",
+        "category":  "character_portrait",
+        "name":  "1218-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1220-1.png",
+        "category":  "character_portrait",
+        "name":  "1220-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1221-1.png",
+        "category":  "character_portrait",
+        "name":  "1221-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1222-1.png",
+        "category":  "character_portrait",
+        "name":  "1222-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1223-1.png",
+        "category":  "character_portrait",
+        "name":  "1223-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1224-1.png",
+        "category":  "character_portrait",
+        "name":  "1224-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1225-1.png",
+        "category":  "character_portrait",
+        "name":  "1225-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1301-1.png",
+        "category":  "character_portrait",
+        "name":  "1301-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1302-1.png",
+        "category":  "character_portrait",
+        "name":  "1302-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1303-1.png",
+        "category":  "character_portrait",
+        "name":  "1303-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1304-1.png",
+        "category":  "character_portrait",
+        "name":  "1304-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1305-1.png",
+        "category":  "character_portrait",
+        "name":  "1305-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1306-1.png",
+        "category":  "character_portrait",
+        "name":  "1306-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1307-1.png",
+        "category":  "character_portrait",
+        "name":  "1307-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1308-1.png",
+        "category":  "character_portrait",
+        "name":  "1308-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1309-1.png",
+        "category":  "character_portrait",
+        "name":  "1309-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1310-1.png",
+        "category":  "character_portrait",
+        "name":  "1310-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1312-1.png",
+        "category":  "character_portrait",
+        "name":  "1312-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1313-1.png",
+        "category":  "character_portrait",
+        "name":  "1313-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1314-1.png",
+        "category":  "character_portrait",
+        "name":  "1314-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1315-1.png",
+        "category":  "character_portrait",
+        "name":  "1315-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1317-1.png",
+        "category":  "character_portrait",
+        "name":  "1317-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1321-1.png",
+        "category":  "character_portrait",
+        "name":  "1321-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1401-1.png",
+        "category":  "character_portrait",
+        "name":  "1401-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1402-1.png",
+        "category":  "character_portrait",
+        "name":  "1402-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1403-1.png",
+        "category":  "character_portrait",
+        "name":  "1403-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1404-1.png",
+        "category":  "character_portrait",
+        "name":  "1404-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1405-1.png",
+        "category":  "character_portrait",
+        "name":  "1405-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1406-1.png",
+        "category":  "character_portrait",
+        "name":  "1406-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1407-1.png",
+        "category":  "character_portrait",
+        "name":  "1407-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1408-1.png",
+        "category":  "character_portrait",
+        "name":  "1408-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1409-1.png",
+        "category":  "character_portrait",
+        "name":  "1409-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1410-1.png",
+        "category":  "character_portrait",
+        "name":  "1410-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1412-1.png",
+        "category":  "character_portrait",
+        "name":  "1412-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1413-1.png",
+        "category":  "character_portrait",
+        "name":  "1413-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1414-1.png",
+        "category":  "character_portrait",
+        "name":  "1414-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1415-1.png",
+        "category":  "character_portrait",
+        "name":  "1415-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1501-1.png",
+        "category":  "character_portrait",
+        "name":  "1501-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1502-1.png",
+        "category":  "character_portrait",
+        "name":  "1502-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1504-1.png",
+        "category":  "character_portrait",
+        "name":  "1504-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1505-1.png",
+        "category":  "character_portrait",
+        "name":  "1505-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/1506-1.png",
+        "category":  "character_portrait",
+        "name":  "1506-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8001-1.png",
+        "category":  "character_portrait",
+        "name":  "8001-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8002-1.png",
+        "category":  "character_portrait",
+        "name":  "8002-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8003-1.png",
+        "category":  "character_portrait",
+        "name":  "8003-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8004-1.png",
+        "category":  "character_portrait",
+        "name":  "8004-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8005-1.png",
+        "category":  "character_portrait",
+        "name":  "8005-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8006-1.png",
+        "category":  "character_portrait",
+        "name":  "8006-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8007-1.png",
+        "category":  "character_portrait",
+        "name":  "8007-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8008-1.png",
+        "category":  "character_portrait",
+        "name":  "8008-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8009-1.png",
+        "category":  "character_portrait",
+        "name":  "8009-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/character_portrait/8010-1.png",
+        "category":  "character_portrait",
+        "name":  "8010-1.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/999SW.png",
+        "category":  "companions",
+        "name":  "999SW.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/acheron-flower.png",
+        "category":  "companions",
+        "name":  "acheron-flower.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Calra-challenge-mode.mp3",
+        "category":  "companions",
+        "name":  "Calra-challenge-mode.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q1 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q1 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q10 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q10 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q11 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q11 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q12 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q12 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q13 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q13 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q14 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q14 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q15 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q15 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q16 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q16 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q17 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q17 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q18 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q18 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q19 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q19 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q2 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q2 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q20 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q20 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q21 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q21 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q22 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q22 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q23 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q23 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q24 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q24 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q3 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q3 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q4 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q4 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q5 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q5 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q6 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q6 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q7 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q7 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q8 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q8 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara - Q9 Drills guide.mp3",
+        "category":  "companions",
+        "name":  "Clara - Q9 Drills guide.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-2.png",
+        "category":  "companions",
+        "name":  "clara-2.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-drills.mp3",
+        "category":  "companions",
+        "name":  "Clara-drills.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-free-exp.mp3",
+        "category":  "companions",
+        "name":  "Clara-free-exp.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-half-kimono-gif.gif",
+        "category":  "companions",
+        "name":  "clara-half-kimono-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-half-kimono.png",
+        "category":  "companions",
+        "name":  "clara-half-kimono.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-half-snowy-gif.gif",
+        "category":  "companions",
+        "name":  "clara-half-snowy-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-half-snowy.png",
+        "category":  "companions",
+        "name":  "clara-half-snowy.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-hi.mp3",
+        "category":  "companions",
+        "name":  "Clara-hi.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-kimono-gif.gif",
+        "category":  "companions",
+        "name":  "clara-kimono-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-kimono.png",
+        "category":  "companions",
+        "name":  "clara-kimono.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-mad-playground-gif.gif",
+        "category":  "companions",
+        "name":  "clara-mad-playground-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-maid-gif.gif",
+        "category":  "companions",
+        "name":  "clara-maid-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-maid.png",
+        "category":  "companions",
+        "name":  "clara-maid.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-mistake.mp3",
+        "category":  "companions",
+        "name":  "Clara-mistake.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-pattern-lab.mp3",
+        "category":  "companions",
+        "name":  "Clara-pattern-lab.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-playground-gif.gif",
+        "category":  "companions",
+        "name":  "clara-playground-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-playground-mad.png",
+        "category":  "companions",
+        "name":  "clara-playground-mad.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-playground.png",
+        "category":  "companions",
+        "name":  "clara-playground.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-prof-assistant-sadface.png",
+        "category":  "companions",
+        "name":  "clara-prof-assistant-sadface.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-prof-assistant.png",
+        "category":  "companions",
+        "name":  "clara-prof-assistant.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-prof-fullanim.gif",
+        "category":  "companions",
+        "name":  "clara-prof-fullanim.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-prof-OandMouth.gif",
+        "category":  "companions",
+        "name":  "clara-prof-OandMouth.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-Ready-outer.mp3",
+        "category":  "companions",
+        "name":  "Clara-Ready-outer.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-relic-races.mp3",
+        "category":  "companions",
+        "name":  "Clara-relic-races.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-science-gif.gif",
+        "category":  "companions",
+        "name":  "clara-science-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-science.png",
+        "category":  "companions",
+        "name":  "clara-science.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-snowy-gif.gif",
+        "category":  "companions",
+        "name":  "clara-snowy-gif.gif",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara-snowy.png",
+        "category":  "companions",
+        "name":  "clara-snowy.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-Success.mp3",
+        "category":  "companions",
+        "name":  "Clara-Success.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-tutorial-endscreen.mp3",
+        "category":  "companions",
+        "name":  "Clara-tutorial-endscreen.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/Clara-tutorial-intro.mp3",
+        "category":  "companions",
+        "name":  "Clara-tutorial-intro.mp3",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/clara.jpg",
+        "category":  "companions",
+        "name":  "clara.jpg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/genshinIcon.png",
+        "category":  "companions",
+        "name":  "genshinIcon.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/HSRIcon.png",
+        "category":  "companions",
+        "name":  "HSRIcon.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/mask.jpg",
+        "category":  "companions",
+        "name":  "mask.jpg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/prof-svarog-lab.png",
+        "category":  "companions",
+        "name":  "prof-svarog-lab.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/prof-Svarog.png",
+        "category":  "companions",
+        "name":  "prof-Svarog.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/svarog-playground.png",
+        "category":  "companions",
+        "name":  "svarog-playground.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/svarog.png",
+        "category":  "companions",
+        "name":  "svarog.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/The Astral Express Sprite.png",
+        "category":  "companions",
+        "name":  "The Astral Express Sprite.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/vite.svg",
+        "category":  "companions",
+        "name":  "vite.svg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Archive_Clara_2_EN_KeepUpthework.ogg",
+        "category":  "companions",
+        "name":  "VO_Archive_Clara_2_EN_KeepUpthework.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Archive_Clara_EN_Database.ogg",
+        "category":  "companions",
+        "name":  "VO_Archive_Clara_EN_Database.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Clara_en_notafraid.ogg",
+        "category":  "companions",
+        "name":  "VO_Clara_en_notafraid.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Clara_en_ouch.ogg",
+        "category":  "companions",
+        "name":  "VO_Clara_en_ouch.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Clara_EN_Safehere.ogg",
+        "category":  "companions",
+        "name":  "VO_Clara_EN_Safehere.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_Clara_IHOPE DIDOKAY.ogg",
+        "category":  "companions",
+        "name":  "VO_Clara_IHOPE DIDOKAY.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Archive_Clara_2_Keepupthework.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Archive_Clara_2_Keepupthework.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Archive_Clara_Database.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Archive_Clara_Database.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_helpful.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_helpful.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_HELPSvarog.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_HELPSvarog.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_notscared.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_notscared.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_ouch.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_ouch.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_Successful_ right.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_Successful_ right.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/VO_JP_Clara_YAH.ogg",
+        "category":  "companions",
+        "name":  "VO_JP_Clara_YAH.ogg",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/wuwaIcon.png",
+        "category":  "companions",
+        "name":  "wuwaIcon.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/companions/zzzIcon.png",
+        "category":  "companions",
+        "name":  "zzzIcon.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Fire.png",
+        "category":  "element_icon",
+        "name":  "Fire.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Ice.png",
+        "category":  "element_icon",
+        "name":  "Ice.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Imaginary.png",
+        "category":  "element_icon",
+        "name":  "Imaginary.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Physical.png",
+        "category":  "element_icon",
+        "name":  "Physical.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Quantum.png",
+        "category":  "element_icon",
+        "name":  "Quantum.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Thunder.png",
+        "category":  "element_icon",
+        "name":  "Thunder.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/element_icon/Wind.png",
+        "category":  "element_icon",
+        "name":  "Wind.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20000.png",
+        "category":  "lightcone_preview",
+        "name":  "20000.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20001.png",
+        "category":  "lightcone_preview",
+        "name":  "20001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20002.png",
+        "category":  "lightcone_preview",
+        "name":  "20002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20003.png",
+        "category":  "lightcone_preview",
+        "name":  "20003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20004.png",
+        "category":  "lightcone_preview",
+        "name":  "20004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20005.png",
+        "category":  "lightcone_preview",
+        "name":  "20005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20006.png",
+        "category":  "lightcone_preview",
+        "name":  "20006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20007.png",
+        "category":  "lightcone_preview",
+        "name":  "20007.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20008.png",
+        "category":  "lightcone_preview",
+        "name":  "20008.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20009.png",
+        "category":  "lightcone_preview",
+        "name":  "20009.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20010.png",
+        "category":  "lightcone_preview",
+        "name":  "20010.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20011.png",
+        "category":  "lightcone_preview",
+        "name":  "20011.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20012.png",
+        "category":  "lightcone_preview",
+        "name":  "20012.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20013.png",
+        "category":  "lightcone_preview",
+        "name":  "20013.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20014.png",
+        "category":  "lightcone_preview",
+        "name":  "20014.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20015.png",
+        "category":  "lightcone_preview",
+        "name":  "20015.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20016.png",
+        "category":  "lightcone_preview",
+        "name":  "20016.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20017.png",
+        "category":  "lightcone_preview",
+        "name":  "20017.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20018.png",
+        "category":  "lightcone_preview",
+        "name":  "20018.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20019.png",
+        "category":  "lightcone_preview",
+        "name":  "20019.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20020.png",
+        "category":  "lightcone_preview",
+        "name":  "20020.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20021.png",
+        "category":  "lightcone_preview",
+        "name":  "20021.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20022.png",
+        "category":  "lightcone_preview",
+        "name":  "20022.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20023.png",
+        "category":  "lightcone_preview",
+        "name":  "20023.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/20024.png",
+        "category":  "lightcone_preview",
+        "name":  "20024.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21000.png",
+        "category":  "lightcone_preview",
+        "name":  "21000.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21001.png",
+        "category":  "lightcone_preview",
+        "name":  "21001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21002.png",
+        "category":  "lightcone_preview",
+        "name":  "21002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21003.png",
+        "category":  "lightcone_preview",
+        "name":  "21003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21004.png",
+        "category":  "lightcone_preview",
+        "name":  "21004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21005.png",
+        "category":  "lightcone_preview",
+        "name":  "21005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21006.png",
+        "category":  "lightcone_preview",
+        "name":  "21006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21007.png",
+        "category":  "lightcone_preview",
+        "name":  "21007.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21008.png",
+        "category":  "lightcone_preview",
+        "name":  "21008.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21009.png",
+        "category":  "lightcone_preview",
+        "name":  "21009.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21010.png",
+        "category":  "lightcone_preview",
+        "name":  "21010.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21011.png",
+        "category":  "lightcone_preview",
+        "name":  "21011.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21012.png",
+        "category":  "lightcone_preview",
+        "name":  "21012.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21013.png",
+        "category":  "lightcone_preview",
+        "name":  "21013.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21014.png",
+        "category":  "lightcone_preview",
+        "name":  "21014.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21015.png",
+        "category":  "lightcone_preview",
+        "name":  "21015.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21016.png",
+        "category":  "lightcone_preview",
+        "name":  "21016.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21017.png",
+        "category":  "lightcone_preview",
+        "name":  "21017.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21018.png",
+        "category":  "lightcone_preview",
+        "name":  "21018.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21019.png",
+        "category":  "lightcone_preview",
+        "name":  "21019.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21020.png",
+        "category":  "lightcone_preview",
+        "name":  "21020.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21021.png",
+        "category":  "lightcone_preview",
+        "name":  "21021.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21022.png",
+        "category":  "lightcone_preview",
+        "name":  "21022.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21023.png",
+        "category":  "lightcone_preview",
+        "name":  "21023.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21024.png",
+        "category":  "lightcone_preview",
+        "name":  "21024.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21025.png",
+        "category":  "lightcone_preview",
+        "name":  "21025.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21026.png",
+        "category":  "lightcone_preview",
+        "name":  "21026.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21027.png",
+        "category":  "lightcone_preview",
+        "name":  "21027.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21028.png",
+        "category":  "lightcone_preview",
+        "name":  "21028.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21029.png",
+        "category":  "lightcone_preview",
+        "name":  "21029.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21030.png",
+        "category":  "lightcone_preview",
+        "name":  "21030.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21031.png",
+        "category":  "lightcone_preview",
+        "name":  "21031.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21032.png",
+        "category":  "lightcone_preview",
+        "name":  "21032.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21033.png",
+        "category":  "lightcone_preview",
+        "name":  "21033.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21034.png",
+        "category":  "lightcone_preview",
+        "name":  "21034.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21035.png",
+        "category":  "lightcone_preview",
+        "name":  "21035.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21036.png",
+        "category":  "lightcone_preview",
+        "name":  "21036.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21037.png",
+        "category":  "lightcone_preview",
+        "name":  "21037.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21038.png",
+        "category":  "lightcone_preview",
+        "name":  "21038.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21039.png",
+        "category":  "lightcone_preview",
+        "name":  "21039.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21040.png",
+        "category":  "lightcone_preview",
+        "name":  "21040.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21041.png",
+        "category":  "lightcone_preview",
+        "name":  "21041.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21042.png",
+        "category":  "lightcone_preview",
+        "name":  "21042.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21043.png",
+        "category":  "lightcone_preview",
+        "name":  "21043.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21044.png",
+        "category":  "lightcone_preview",
+        "name":  "21044.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21045.png",
+        "category":  "lightcone_preview",
+        "name":  "21045.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21046.png",
+        "category":  "lightcone_preview",
+        "name":  "21046.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21047.png",
+        "category":  "lightcone_preview",
+        "name":  "21047.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21048.png",
+        "category":  "lightcone_preview",
+        "name":  "21048.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21050.png",
+        "category":  "lightcone_preview",
+        "name":  "21050.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21051.png",
+        "category":  "lightcone_preview",
+        "name":  "21051.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21052.png",
+        "category":  "lightcone_preview",
+        "name":  "21052.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21053.png",
+        "category":  "lightcone_preview",
+        "name":  "21053.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21054.png",
+        "category":  "lightcone_preview",
+        "name":  "21054.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21055.png",
+        "category":  "lightcone_preview",
+        "name":  "21055.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21056.png",
+        "category":  "lightcone_preview",
+        "name":  "21056.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21057.png",
+        "category":  "lightcone_preview",
+        "name":  "21057.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21058.png",
+        "category":  "lightcone_preview",
+        "name":  "21058.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21060.png",
+        "category":  "lightcone_preview",
+        "name":  "21060.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21061.png",
+        "category":  "lightcone_preview",
+        "name":  "21061.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21062.png",
+        "category":  "lightcone_preview",
+        "name":  "21062.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21064.png",
+        "category":  "lightcone_preview",
+        "name":  "21064.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/21065.png",
+        "category":  "lightcone_preview",
+        "name":  "21065.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22000.png",
+        "category":  "lightcone_preview",
+        "name":  "22000.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22001.png",
+        "category":  "lightcone_preview",
+        "name":  "22001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22002.png",
+        "category":  "lightcone_preview",
+        "name":  "22002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22003.png",
+        "category":  "lightcone_preview",
+        "name":  "22003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22004.png",
+        "category":  "lightcone_preview",
+        "name":  "22004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22005.png",
+        "category":  "lightcone_preview",
+        "name":  "22005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22006.png",
+        "category":  "lightcone_preview",
+        "name":  "22006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/22007.png",
+        "category":  "lightcone_preview",
+        "name":  "22007.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23000.png",
+        "category":  "lightcone_preview",
+        "name":  "23000.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23001.png",
+        "category":  "lightcone_preview",
+        "name":  "23001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23002.png",
+        "category":  "lightcone_preview",
+        "name":  "23002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23003.png",
+        "category":  "lightcone_preview",
+        "name":  "23003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23004.png",
+        "category":  "lightcone_preview",
+        "name":  "23004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23005.png",
+        "category":  "lightcone_preview",
+        "name":  "23005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23006.png",
+        "category":  "lightcone_preview",
+        "name":  "23006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23007.png",
+        "category":  "lightcone_preview",
+        "name":  "23007.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23008.png",
+        "category":  "lightcone_preview",
+        "name":  "23008.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23009.png",
+        "category":  "lightcone_preview",
+        "name":  "23009.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23010.png",
+        "category":  "lightcone_preview",
+        "name":  "23010.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23011.png",
+        "category":  "lightcone_preview",
+        "name":  "23011.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23012.png",
+        "category":  "lightcone_preview",
+        "name":  "23012.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23013.png",
+        "category":  "lightcone_preview",
+        "name":  "23013.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23014.png",
+        "category":  "lightcone_preview",
+        "name":  "23014.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23015.png",
+        "category":  "lightcone_preview",
+        "name":  "23015.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23016.png",
+        "category":  "lightcone_preview",
+        "name":  "23016.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23017.png",
+        "category":  "lightcone_preview",
+        "name":  "23017.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23018.png",
+        "category":  "lightcone_preview",
+        "name":  "23018.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23019.png",
+        "category":  "lightcone_preview",
+        "name":  "23019.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23020.png",
+        "category":  "lightcone_preview",
+        "name":  "23020.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23021.png",
+        "category":  "lightcone_preview",
+        "name":  "23021.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23022.png",
+        "category":  "lightcone_preview",
+        "name":  "23022.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23023.png",
+        "category":  "lightcone_preview",
+        "name":  "23023.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23024.png",
+        "category":  "lightcone_preview",
+        "name":  "23024.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23025.png",
+        "category":  "lightcone_preview",
+        "name":  "23025.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23026.png",
+        "category":  "lightcone_preview",
+        "name":  "23026.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23027.png",
+        "category":  "lightcone_preview",
+        "name":  "23027.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23028.png",
+        "category":  "lightcone_preview",
+        "name":  "23028.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23029.png",
+        "category":  "lightcone_preview",
+        "name":  "23029.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23030.png",
+        "category":  "lightcone_preview",
+        "name":  "23030.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23031.png",
+        "category":  "lightcone_preview",
+        "name":  "23031.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23032.png",
+        "category":  "lightcone_preview",
+        "name":  "23032.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23033.png",
+        "category":  "lightcone_preview",
+        "name":  "23033.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23034.png",
+        "category":  "lightcone_preview",
+        "name":  "23034.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23035.png",
+        "category":  "lightcone_preview",
+        "name":  "23035.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23036.png",
+        "category":  "lightcone_preview",
+        "name":  "23036.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23037.png",
+        "category":  "lightcone_preview",
+        "name":  "23037.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23038.png",
+        "category":  "lightcone_preview",
+        "name":  "23038.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23039.png",
+        "category":  "lightcone_preview",
+        "name":  "23039.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23040.png",
+        "category":  "lightcone_preview",
+        "name":  "23040.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23041.png",
+        "category":  "lightcone_preview",
+        "name":  "23041.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23042.png",
+        "category":  "lightcone_preview",
+        "name":  "23042.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23043.png",
+        "category":  "lightcone_preview",
+        "name":  "23043.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23044.png",
+        "category":  "lightcone_preview",
+        "name":  "23044.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23045.png",
+        "category":  "lightcone_preview",
+        "name":  "23045.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23046.png",
+        "category":  "lightcone_preview",
+        "name":  "23046.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23047.png",
+        "category":  "lightcone_preview",
+        "name":  "23047.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23048.png",
+        "category":  "lightcone_preview",
+        "name":  "23048.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23049.png",
+        "category":  "lightcone_preview",
+        "name":  "23049.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23050.png",
+        "category":  "lightcone_preview",
+        "name":  "23050.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23051.png",
+        "category":  "lightcone_preview",
+        "name":  "23051.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23052.png",
+        "category":  "lightcone_preview",
+        "name":  "23052.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23053.png",
+        "category":  "lightcone_preview",
+        "name":  "23053.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23054.png",
+        "category":  "lightcone_preview",
+        "name":  "23054.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23056.png",
+        "category":  "lightcone_preview",
+        "name":  "23056.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23057.png",
+        "category":  "lightcone_preview",
+        "name":  "23057.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/23058.png",
+        "category":  "lightcone_preview",
+        "name":  "23058.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24000.png",
+        "category":  "lightcone_preview",
+        "name":  "24000.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24001.png",
+        "category":  "lightcone_preview",
+        "name":  "24001.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24002.png",
+        "category":  "lightcone_preview",
+        "name":  "24002.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24003.png",
+        "category":  "lightcone_preview",
+        "name":  "24003.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24004.png",
+        "category":  "lightcone_preview",
+        "name":  "24004.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24005.png",
+        "category":  "lightcone_preview",
+        "name":  "24005.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/24006.png",
+        "category":  "lightcone_preview",
+        "name":  "24006.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/fate_lc_archer.webp",
+        "category":  "lightcone_preview",
+        "name":  "fate_lc_archer.webp",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/fate_lc_saber.webp",
+        "category":  "lightcone_preview",
+        "name":  "fate_lc_saber.webp",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/hsr/lightcone_preview/Icon_TestLightconeMax.png",
+        "category":  "lightcone_preview",
+        "name":  "Icon_TestLightconeMax.png",
+        "game":  "hsr"
+    },
+    {
+        "path":  "assets/wuwa/characters/Aalto_icon.webp",
+        "category":  "characters",
+        "name":  "Aalto_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Aemeath_icon.webp",
+        "category":  "characters",
+        "name":  "Aemeath_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Aemeath_splash.png",
+        "category":  "characters",
+        "name":  "Aemeath_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Augusta_icon.webp",
+        "category":  "characters",
+        "name":  "Augusta_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Augusta_splash.png",
+        "category":  "characters",
+        "name":  "Augusta_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Baizhi_icon.webp",
+        "category":  "characters",
+        "name":  "Baizhi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Brant_icon.webp",
+        "category":  "characters",
+        "name":  "Brant_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Brant_splash.png",
+        "category":  "characters",
+        "name":  "Brant_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Buling_icon.webp",
+        "category":  "characters",
+        "name":  "Buling_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Calcharo_icon.webp",
+        "category":  "characters",
+        "name":  "Calcharo_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Calcharo_splash.png",
+        "category":  "characters",
+        "name":  "Calcharo_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Camellya_icon.webp",
+        "category":  "characters",
+        "name":  "Camellya_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Camellya_splash.png",
+        "category":  "characters",
+        "name":  "Camellya_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Cantarella_icon.webp",
+        "category":  "characters",
+        "name":  "Cantarella_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Cantarella_splash.png",
+        "category":  "characters",
+        "name":  "Cantarella_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Carlotta_icon.webp",
+        "category":  "characters",
+        "name":  "Carlotta_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Carlotta_splash.png",
+        "category":  "characters",
+        "name":  "Carlotta_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Cartethyia_icon.webp",
+        "category":  "characters",
+        "name":  "Cartethyia_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Cartethyia_splash.png",
+        "category":  "characters",
+        "name":  "Cartethyia_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Changli_icon.webp",
+        "category":  "characters",
+        "name":  "Changli_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Changli_splash.png",
+        "category":  "characters",
+        "name":  "Changli_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Chisa_icon.webp",
+        "category":  "characters",
+        "name":  "Chisa_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Chisa_splash.png",
+        "category":  "characters",
+        "name":  "Chisa_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Chixia_icon.webp",
+        "category":  "characters",
+        "name":  "Chixia_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Ciaccona_icon.webp",
+        "category":  "characters",
+        "name":  "Ciaccona_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Ciaccona_splash.png",
+        "category":  "characters",
+        "name":  "Ciaccona_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Danjin_icon.webp",
+        "category":  "characters",
+        "name":  "Danjin_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Denia_icon.webp",
+        "category":  "characters",
+        "name":  "Denia_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Encore_icon.webp",
+        "category":  "characters",
+        "name":  "Encore_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Encore_splash.png",
+        "category":  "characters",
+        "name":  "Encore_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Galbrena_icon.webp",
+        "category":  "characters",
+        "name":  "Galbrena_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Galbrena_splash.png",
+        "category":  "characters",
+        "name":  "Galbrena_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Hiyuki_icon.webp",
+        "category":  "characters",
+        "name":  "Hiyuki_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Hiyuki_splash.png",
+        "category":  "characters",
+        "name":  "Hiyuki_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Iuno_icon.webp",
+        "category":  "characters",
+        "name":  "Iuno_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Iuno_splash.png",
+        "category":  "characters",
+        "name":  "Iuno_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jianxin_icon.webp",
+        "category":  "characters",
+        "name":  "Jianxin_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jianxin_splash.png",
+        "category":  "characters",
+        "name":  "Jianxin_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jinhsi_icon.webp",
+        "category":  "characters",
+        "name":  "Jinhsi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jinhsi_splash.png",
+        "category":  "characters",
+        "name":  "Jinhsi_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jiyan_icon.webp",
+        "category":  "characters",
+        "name":  "Jiyan_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Jiyan_splash.png",
+        "category":  "characters",
+        "name":  "Jiyan_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lingyang_icon.webp",
+        "category":  "characters",
+        "name":  "Lingyang_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lingyang_splash.png",
+        "category":  "characters",
+        "name":  "Lingyang_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lumi_icon.webp",
+        "category":  "characters",
+        "name":  "Lumi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lupa_icon.webp",
+        "category":  "characters",
+        "name":  "Lupa_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lupa_splash.png",
+        "category":  "characters",
+        "name":  "Lupa_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Luuk_Herssen_icon.webp",
+        "category":  "characters",
+        "name":  "Luuk_Herssen_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Luuk_Herssen_splash.png",
+        "category":  "characters",
+        "name":  "Luuk_Herssen_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lynae_icon.webp",
+        "category":  "characters",
+        "name":  "Lynae_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Lynae_splash.png",
+        "category":  "characters",
+        "name":  "Lynae_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Mornye_icon.webp",
+        "category":  "characters",
+        "name":  "Mornye_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Mornye_splash.png",
+        "category":  "characters",
+        "name":  "Mornye_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Mortefi_icon.webp",
+        "category":  "characters",
+        "name":  "Mortefi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Phoebe_icon.webp",
+        "category":  "characters",
+        "name":  "Phoebe_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Phoebe_splash.png",
+        "category":  "characters",
+        "name":  "Phoebe_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Phrolova_icon.webp",
+        "category":  "characters",
+        "name":  "Phrolova_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Phrolova_splash.png",
+        "category":  "characters",
+        "name":  "Phrolova_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Qiuyuan_icon.webp",
+        "category":  "characters",
+        "name":  "Qiuyuan_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Qiuyuan_splash.png",
+        "category":  "characters",
+        "name":  "Qiuyuan_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Roccia_icon.webp",
+        "category":  "characters",
+        "name":  "Roccia_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Roccia_splash.png",
+        "category":  "characters",
+        "name":  "Roccia_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Rover",
+        "category":  "characters",
+        "name":  "Rover",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Sanhua_icon.webp",
+        "category":  "characters",
+        "name":  "Sanhua_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Shorekeeper_icon.webp",
+        "category":  "characters",
+        "name":  "Shorekeeper_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Shorekeeper_splash.png",
+        "category":  "characters",
+        "name":  "Shorekeeper_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Sigrika_icon.webp",
+        "category":  "characters",
+        "name":  "Sigrika_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Sigrika_splash.png",
+        "category":  "characters",
+        "name":  "Sigrika_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Taoqi_icon.webp",
+        "category":  "characters",
+        "name":  "Taoqi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Verina_icon.webp",
+        "category":  "characters",
+        "name":  "Verina_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Verina_splash.png",
+        "category":  "characters",
+        "name":  "Verina_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Xiangli_Yao_icon.webp",
+        "category":  "characters",
+        "name":  "Xiangli_Yao_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Xiangli_Yao_splash.png",
+        "category":  "characters",
+        "name":  "Xiangli_Yao_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Yangyang_icon.webp",
+        "category":  "characters",
+        "name":  "Yangyang_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Yinlin_icon.webp",
+        "category":  "characters",
+        "name":  "Yinlin_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Yinlin_splash.png",
+        "category":  "characters",
+        "name":  "Yinlin_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Youhu_icon.webp",
+        "category":  "characters",
+        "name":  "Youhu_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Youhu_splash.png",
+        "category":  "characters",
+        "name":  "Youhu_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Yuanwu_icon.webp",
+        "category":  "characters",
+        "name":  "Yuanwu_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Zani_icon.webp",
+        "category":  "characters",
+        "name":  "Zani_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Zani_splash.png",
+        "category":  "characters",
+        "name":  "Zani_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Zhezhi_icon.webp",
+        "category":  "characters",
+        "name":  "Zhezhi_icon.webp",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/characters/Zhezhi_splash.png",
+        "category":  "characters",
+        "name":  "Zhezhi_splash.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Abyss_Surges.png",
+        "category":  "weapons",
+        "name":  "Abyss_Surges.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Ages_of_Harvest.png",
+        "category":  "weapons",
+        "name":  "Ages_of_Harvest.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Blazing_Brilliance.png",
+        "category":  "weapons",
+        "name":  "Blazing_Brilliance.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Blazing_Justice.png",
+        "category":  "weapons",
+        "name":  "Blazing_Justice.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Bloodpact\u0027s_Pledge.png",
+        "category":  "weapons",
+        "name":  "Bloodpact\u0027s_Pledge.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Boson_Astrolabe.png",
+        "category":  "weapons",
+        "name":  "Boson_Astrolabe.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Cosmic_Ripples.png",
+        "category":  "weapons",
+        "name":  "Cosmic_Ripples.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Daybreaker\u0027s_Spine.png",
+        "category":  "weapons",
+        "name":  "Daybreaker\u0027s_Spine.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Defier\u0027s_Thorn.png",
+        "category":  "weapons",
+        "name":  "Defier\u0027s_Thorn.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Emerald_of_Genesis.png",
+        "category":  "weapons",
+        "name":  "Emerald_of_Genesis.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Emerald_Sentence.png",
+        "category":  "weapons",
+        "name":  "Emerald_Sentence.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Everbright_Polestar.png",
+        "category":  "weapons",
+        "name":  "Everbright_Polestar.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Frostburn.png",
+        "category":  "weapons",
+        "name":  "Frostburn.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Kumokiri.png",
+        "category":  "weapons",
+        "name":  "Kumokiri.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Laser_Shearer.png",
+        "category":  "weapons",
+        "name":  "Laser_Shearer.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Lethean_Elegy.png",
+        "category":  "weapons",
+        "name":  "Lethean_Elegy.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Luminous_Hymn.png",
+        "category":  "weapons",
+        "name":  "Luminous_Hymn.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Lustrous_Razor.png",
+        "category":  "weapons",
+        "name":  "Lustrous_Razor.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Lux_\u0026_Umbra.png",
+        "category":  "weapons",
+        "name":  "Lux_\u0026_Umbra.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Moongazer\u0027s_Sigil.png",
+        "category":  "weapons",
+        "name":  "Moongazer\u0027s_Sigil.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Phasic_Homogenizer.png",
+        "category":  "weapons",
+        "name":  "Phasic_Homogenizer.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Pulsation_Bracer.png",
+        "category":  "weapons",
+        "name":  "Pulsation_Bracer.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Radiance_Cleaver.png",
+        "category":  "weapons",
+        "name":  "Radiance_Cleaver.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Red_Spring.png",
+        "category":  "weapons",
+        "name":  "Red_Spring.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Rime-Draped_Sprouts.png",
+        "category":  "weapons",
+        "name":  "Rime-Draped_Sprouts.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Solsworn_Ciphers.png",
+        "category":  "weapons",
+        "name":  "Solsworn_Ciphers.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Spectrum_Blaster.png",
+        "category":  "weapons",
+        "name":  "Spectrum_Blaster.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Starfield_Calibrator.png",
+        "category":  "weapons",
+        "name":  "Starfield_Calibrator.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Static_Mist.png",
+        "category":  "weapons",
+        "name":  "Static_Mist.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Stellar_Symphony.png",
+        "category":  "weapons",
+        "name":  "Stellar_Symphony.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Stringmaster.png",
+        "category":  "weapons",
+        "name":  "Stringmaster.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/The_Last_Dance.png",
+        "category":  "weapons",
+        "name":  "The_Last_Dance.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Thunderflare_Dominion.png",
+        "category":  "weapons",
+        "name":  "Thunderflare_Dominion.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Tragicomedy.png",
+        "category":  "weapons",
+        "name":  "Tragicomedy.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Unflickering_Valor.png",
+        "category":  "weapons",
+        "name":  "Unflickering_Valor.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Verdant_Summit.png",
+        "category":  "weapons",
+        "name":  "Verdant_Summit.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Verity\u0027s_Handle.png",
+        "category":  "weapons",
+        "name":  "Verity\u0027s_Handle.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Whispers_of_Sirens.png",
+        "category":  "weapons",
+        "name":  "Whispers_of_Sirens.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Wildfire_Mark.png",
+        "category":  "weapons",
+        "name":  "Wildfire_Mark.png",
+        "game":  "wuwa"
+    },
+    {
+        "path":  "assets/wuwa/weapons/Woodland_Aria.png",
+        "category":  "weapons",
+        "name":  "Woodland_Aria.png",
+        "game":  "wuwa"
+    }
+]
