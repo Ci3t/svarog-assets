@@ -1,1 +1,11 @@
-kimi-cloudflare.md
+# Ignore the backup image dump
+ignore-upload/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+
+# Temp files
+lightcone_list.txt
