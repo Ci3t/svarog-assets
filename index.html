@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Svarog Banner Assets — Local Preview</title>
+  <title>Svarog Banner Assets — Preview</title>
   <style>
     :root {
       --bg: #0b0c10;
@@ -45,6 +45,9 @@
     .empty { text-align: center; padding: 2rem; color: var(--text-muted); }
     .info-box { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; }
     .info-box code { background: rgba(0,0,0,0.3); padding: 0.1rem 0.3rem; border-radius: 4px; font-size: 0.85rem; }
+    .status { font-size: 0.8rem; padding: 0.5rem 1rem; border-radius: 6px; margin-bottom: 1rem; }
+    .status.ok { background: rgba(102,252,241,0.1); color: var(--accent); border: 1px solid var(--accent-dim); }
+    .status.error { background: rgba(255,107,107,0.1); color: var(--danger); border: 1px solid var(--danger); }
     footer { text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.8rem; border-top: 1px solid var(--border); }
   </style>
 </head>
@@ -56,10 +59,8 @@
 
   <main>
     <div class="info-box">
-      <strong>How to update:</strong> Drop new images into <code>ignore-upload/</code>, run <code>python update_banners.py</code>, update <code>manifest.json</code>, then <code>git push</code>.<br>
-      <strong>Rule:</strong> Always use new dated filenames. Never overwrite old ones — jsDelivr caches aggressively.
+      <strong>Repo size:</strong> ~462 KB tracked | <strong>Rule:</strong> Never overwrite old filenames — jsDelivr caches aggressively.
     </div>
-
     <div id="content"></div>
   </main>
 
@@ -68,16 +69,44 @@
   </footer>
 
   <script>
-    async function loadManifest() {
-      try {
-        const res = await fetch('manifest.json');
-        if (!res.ok) throw new Error('manifest.json not found');
-        const data = await res.json();
-        render(data);
-      } catch (e) {
-        document.getElementById('content').innerHTML = `<div class="empty">Error loading manifest.json: ${e.message}</div>`;
-      }
+    const MANIFEST = {
+  "genshin": {
+    "character": {
+      "name": "Lauma",
+      "match": [
+        "lauma",
+        "lauma / nefer",
+        "nefer"
+      ],
+      "image": "genshin/lauma-2026-05.webp"
+    },
+    "weapon": {
+      "name": "Nightweaver's Looking Glass",
+      "match": [
+        "weapon",
+        "weapon_banner",
+        "current weapon banner"
+      ],
+      "image": "genshin/lauma-weapon-2026-05.webp"
     }
+  },
+  "wuwa": {
+    "character": {
+      "name": "Hiyuki",
+      "match": [
+        "hiyuki"
+      ],
+      "image": "wuwa/hiyuki-2026-05.webp"
+    },
+    "weapon": {
+      "name": "Frostburn",
+      "match": [
+        "frostburn"
+      ],
+      "image": "wuwa/frostburn-2026-05.webp"
+    }
+  }
+};
 
     function render(data) {
       const container = document.getElementById('content');
@@ -107,7 +136,13 @@
           const img = document.createElement('img');
           img.src = item.image;
           img.alt = item.name;
-          img.onerror = () => { img.style.display = 'none'; card.querySelector('.card-footer').innerHTML += '<div style="color:#ff6b6b;font-size:0.8rem;margin-top:0.5rem;">Image not found locally</div>'; };
+          img.onerror = function() {
+            this.style.display = 'none';
+            const err = document.createElement('div');
+            err.style.cssText = 'padding:2rem;text-align:center;color:#ff6b6b;font-size:0.9rem;';
+            err.textContent = 'Image not found locally: ' + item.image;
+            card.insertBefore(err, card.querySelector('.card-footer'));
+          };
           card.appendChild(img);
 
           const footer = document.createElement('div');
@@ -120,7 +155,7 @@
 
           const url = document.createElement('div');
           url.className = 'url';
-          url.textContent = `https://cdn.jsdelivr.net/gh/Ci3t/svarog-assets@main/${item.image}`;
+          url.textContent = 'https://cdn.jsdelivr.net/gh/Ci3t/svarog-assets@main/' + item.image;
           footer.appendChild(url);
 
           if (item.match && item.match.length) {
@@ -144,7 +179,7 @@
       }
     }
 
-    loadManifest();
+    render(MANIFEST);
   </script>
 </body>
 </html>
