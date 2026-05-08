@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated": "2026-05-08T17:29:50.753167",
+    "generated": "2026-05-08T17:42:50.305337",
     "hsr_primary": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image",
     "note": "Auto-generated. Run: python update_manifest.py"
   },
@@ -13,8 +13,15 @@
     "hiyuki": "wuwa/hiyuki-2026-05.webp"
   },
   "hsr": {
-    "character_portrait": {},
-    "character_icon": {},
+    "character_portrait": {
+      "1003": "hsr/character_portrait/1003.png",
+      "evanescia": "hsr/character_portrait/evanescia.png",
+      "silver-wolf-lv999": "hsr/character_portrait/silver-wolf-lv999.png"
+    },
+    "character_icon": {
+      "evanescia": "hsr/character_icon/evanescia.png",
+      "silver-wolf-lv999": "hsr/character_icon/silver-wolf-lv999.png"
+    },
     "lightcone_preview": {}
   }
 }
