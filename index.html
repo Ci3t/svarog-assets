@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Svarog Banner Assets — Preview</title>
+  <title>Svarog Assets — Preview</title>
   <style>
     :root {
       --bg: #0b0c10;
@@ -24,42 +24,58 @@
     }
     h1 { margin: 0; font-size: 1.5rem; color: var(--accent); }
     .subtitle { color: var(--text-muted); font-size: 0.85rem; margin-top: 0.3rem; }
-    main { max-width: 1200px; margin: 0 auto; padding: 1.5rem; }
+    main { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
+    .info-box {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+      padding: 1rem; margin-bottom: 1.5rem; font-size: 0.9rem;
+    }
+    .info-box code { background: rgba(0,0,0,0.3); padding: 0.1rem 0.3rem; border-radius: 4px; font-size: 0.85rem; }
     .game-section { margin-bottom: 2rem; }
-    .game-title { font-size: 1.2rem; color: var(--accent); margin-bottom: 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; }
+    .game-title {
+      font-size: 1.2rem; color: var(--accent); margin-bottom: 1rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    .count { font-size: 0.75rem; color: var(--text-muted); font-weight: normal; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }
     .card {
       background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
       overflow: hidden; transition: transform 0.15s, box-shadow 0.15s;
     }
     .card:hover { transform: translateY(-3px); box-shadow: 0 4px 24px rgba(0,0,0,0.45); border-color: var(--accent-dim); }
-    .card-header { padding: 0.8rem 1rem; background: rgba(255,255,255,0.03); border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
-    .card-type { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; color: var(--accent-dim); font-weight: 600; }
-    .card-name { font-weight: 600; font-size: 0.95rem; }
-    .card img { width: 100%; height: 200px; object-fit: contain; background: rgba(0,0,0,0.2); display: block; }
-    .card-footer { padding: 0.8rem 1rem; background: rgba(255,255,255,0.02); }
-    .filename { font-family: monospace; font-size: 0.8rem; color: var(--text-muted); word-break: break-all; }
-    .url { font-family: monospace; font-size: 0.7rem; color: var(--text-muted); margin-top: 0.3rem; word-break: break-all; opacity: 0.7; }
-    .match-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem; }
-    .tag { background: rgba(102,252,241,0.1); color: var(--accent); padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.7rem; }
-    .empty { text-align: center; padding: 2rem; color: var(--text-muted); }
-    .info-box { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; }
-    .info-box code { background: rgba(0,0,0,0.3); padding: 0.1rem 0.3rem; border-radius: 4px; font-size: 0.85rem; }
-    .status { font-size: 0.8rem; padding: 0.5rem 1rem; border-radius: 6px; margin-bottom: 1rem; }
-    .status.ok { background: rgba(102,252,241,0.1); color: var(--accent); border: 1px solid var(--accent-dim); }
-    .status.error { background: rgba(255,107,107,0.1); color: var(--danger); border: 1px solid var(--danger); }
-    footer { text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.8rem; border-top: 1px solid var(--border); }
+    .card-header {
+      padding: 0.6rem 0.8rem; background: rgba(255,255,255,0.03);
+      border-bottom: 1px solid var(--border); font-family: monospace;
+      font-size: 0.8rem; color: var(--accent); word-break: break-all;
+    }
+    .card img {
+      width: 100%; height: 180px; object-fit: contain;
+      background: rgba(0,0,0,0.2); display: block;
+    }
+    .card-footer {
+      padding: 0.6rem 0.8rem; background: rgba(255,255,255,0.02);
+      font-size: 0.75rem; color: var(--text-muted);
+      font-family: monospace; word-break: break-all;
+    }
+    .empty { text-align: center; padding: 2rem; color: var(--text-muted); font-style: italic; }
+    .jsdelivr { color: var(--text-muted); opacity: 0.6; }
+    footer {
+      text-align: center; padding: 2rem; color: var(--text-muted);
+      font-size: 0.8rem; border-top: 1px solid var(--border);
+    }
   </style>
 </head>
 <body>
   <header>
-    <h1>Svarog Banner Assets</h1>
-    <div class="subtitle">Local Preview &amp; Manifest Validator</div>
+    <h1>Svarog Assets</h1>
+    <div class="subtitle">Image Host Preview — 475 KB tracked</div>
   </header>
 
   <main>
     <div class="info-box">
-      <strong>Repo size:</strong> ~462 KB tracked | <strong>Rule:</strong> Never overwrite old filenames — jsDelivr caches aggressively.
+      <strong>This repo is a pure image host.</strong> The main Svarog app reads <code>manifest.json</code> to resolve image URLs.<br>
+      HSR primary source: <code>https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image</code><br>
+      <strong>To add images:</strong> Drop files into <code>genshin/</code>, <code>wuwa/</code>, or <code>hsr/*/</code>, then run <code>python update_manifest.py</code>.
     </div>
     <div id="content"></div>
   </main>
@@ -70,116 +86,109 @@
 
   <script>
     const MANIFEST = {
+  "_meta": {
+    "generated": "2026-05-08T17:29:50.753167",
+    "hsr_primary": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/image",
+    "note": "Auto-generated. Run: python update_manifest.py"
+  },
   "genshin": {
-    "character": {
-      "name": "Lauma",
-      "match": [
-        "lauma",
-        "lauma / nefer",
-        "nefer"
-      ],
-      "image": "genshin/lauma-2026-05.webp"
-    },
-    "weapon": {
-      "name": "Nightweaver's Looking Glass",
-      "match": [
-        "weapon",
-        "weapon_banner",
-        "current weapon banner"
-      ],
-      "image": "genshin/lauma-weapon-2026-05.webp"
-    }
+    "lauma": "genshin/lauma-2026-05.webp",
+    "lauma-weapon": "genshin/lauma-weapon-2026-05.webp"
   },
   "wuwa": {
-    "character": {
-      "name": "Hiyuki",
-      "match": [
-        "hiyuki"
-      ],
-      "image": "wuwa/hiyuki-2026-05.webp"
-    },
-    "weapon": {
-      "name": "Frostburn",
-      "match": [
-        "frostburn"
-      ],
-      "image": "wuwa/frostburn-2026-05.webp"
-    }
+    "frostburn": "wuwa/frostburn-2026-05.webp",
+    "hiyuki": "wuwa/hiyuki-2026-05.webp"
+  },
+  "hsr": {
+    "character_portrait": {},
+    "character_icon": {},
+    "lightcone_preview": {}
   }
 };
+    const JSDELIVR_BASE = 'https://cdn.jsdelivr.net/gh/Ci3t/svarog-assets@main/';
 
-    function render(data) {
+    function createCard(key, path) {
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      const header = document.createElement('div');
+      header.className = 'card-header';
+      header.textContent = key;
+      card.appendChild(header);
+
+      const img = document.createElement('img');
+      img.src = path;
+      img.alt = key;
+      img.onerror = function() {
+        this.style.display = 'none';
+        const err = document.createElement('div');
+        err.style.cssText = 'padding:2rem;text-align:center;color:#ff6b6b;font-size:0.85rem;';
+        err.textContent = 'Image not found locally';
+        card.appendChild(err);
+      };
+      card.appendChild(img);
+
+      const footer = document.createElement('div');
+      footer.className = 'card-footer';
+      footer.textContent = path;
+      const jsd = document.createElement('div');
+      jsd.className = 'jsdelivr';
+      jsd.textContent = JSDELIVR_BASE + path;
+      footer.appendChild(jsd);
+      card.appendChild(footer);
+
+      return card;
+    }
+
+    function renderSection(title, items) {
+      const section = document.createElement('div');
+      section.className = 'game-section';
+
+      const h2 = document.createElement('div');
+      h2.className = 'game-title';
+      const keys = Object.keys(items);
+      h2.innerHTML = title + '<span class="count">' + keys.length + ' files</span>';
+      section.appendChild(h2);
+
+      if (keys.length === 0) {
+        section.innerHTML += '<div class="empty">No images in this folder yet.</div>';
+        return section;
+      }
+
+      const grid = document.createElement('div');
+      grid.className = 'grid';
+      for (const key of keys.sort()) {
+        grid.appendChild(createCard(key, items[key]));
+      }
+      section.appendChild(grid);
+      return section;
+    }
+
+    function render() {
       const container = document.getElementById('content');
       container.innerHTML = '';
 
-      for (const [gameKey, gameData] of Object.entries(data)) {
-        const section = document.createElement('div');
-        section.className = 'game-section';
-
-        const title = document.createElement('div');
-        title.className = 'game-title';
-        title.textContent = gameKey.toUpperCase();
-        section.appendChild(title);
-
-        const grid = document.createElement('div');
-        grid.className = 'grid';
-
-        for (const [typeKey, item] of Object.entries(gameData)) {
-          const card = document.createElement('div');
-          card.className = 'card';
-
-          const header = document.createElement('div');
-          header.className = 'card-header';
-          header.innerHTML = `<span class="card-type">${typeKey}</span><span class="card-name">${item.name}</span>`;
-          card.appendChild(header);
-
-          const img = document.createElement('img');
-          img.src = item.image;
-          img.alt = item.name;
-          img.onerror = function() {
-            this.style.display = 'none';
-            const err = document.createElement('div');
-            err.style.cssText = 'padding:2rem;text-align:center;color:#ff6b6b;font-size:0.9rem;';
-            err.textContent = 'Image not found locally: ' + item.image;
-            card.insertBefore(err, card.querySelector('.card-footer'));
-          };
-          card.appendChild(img);
-
-          const footer = document.createElement('div');
-          footer.className = 'card-footer';
-
-          const filename = document.createElement('div');
-          filename.className = 'filename';
-          filename.textContent = item.image;
-          footer.appendChild(filename);
-
-          const url = document.createElement('div');
-          url.className = 'url';
-          url.textContent = 'https://cdn.jsdelivr.net/gh/Ci3t/svarog-assets@main/' + item.image;
-          footer.appendChild(url);
-
-          if (item.match && item.match.length) {
-            const tags = document.createElement('div');
-            tags.className = 'match-tags';
-            item.match.forEach(m => {
-              const tag = document.createElement('span');
-              tag.className = 'tag';
-              tag.textContent = m;
-              tags.appendChild(tag);
-            });
-            footer.appendChild(tags);
-          }
-
-          card.appendChild(footer);
-          grid.appendChild(card);
+      if (MANIFEST.genshin) {
+        container.appendChild(renderSection('Genshin Impact', MANIFEST.genshin));
+      }
+      if (MANIFEST.wuwa) {
+        container.appendChild(renderSection('Wuthering Waves', MANIFEST.wuwa));
+      }
+      if (MANIFEST.hsr) {
+        const hsr = MANIFEST.hsr;
+        if (hsr.character_portrait && Object.keys(hsr.character_portrait).length) {
+          container.appendChild(renderSection('HSR Character Portraits', hsr.character_portrait));
         }
-
-        section.appendChild(grid);
-        container.appendChild(section);
+        if (hsr.character_icon && Object.keys(hsr.character_icon).length) {
+          container.appendChild(renderSection('HSR Character Icons', hsr.character_icon));
+        }
+        if (hsr.lightcone_preview && Object.keys(hsr.lightcone_preview).length) {
+          container.appendChild(renderSection('HSR Light Cones', hsr.lightcone_preview));
+        }
       }
     }
 
-    render(MANIFEST);
+    render();
   </script>
 </body>
 </html>
