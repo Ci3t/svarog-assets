@@ -8,15 +8,13 @@
       "image": "genshin/Nicole_Splash.webp"
     },
     "weapon": {
-      "name": "Current Genshin Weapon",
+      "name": "Nicole Weapon",
       "match": [
         "weapon",
-        "weapon_banner",
-        "current weapon banner",
-        "reliquary of truth",
-        "nightweavers looking glass"
+        "nicole weapon",
+        "weapon banner"
       ],
-      "image": "genshin/lauma-weapon-2026-05.webp"
+      "image": "genshin/Nicole_weapon_Splash.webp"
     }
   },
   "wuwa": {
