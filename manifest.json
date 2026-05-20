@@ -1,25 +1,37 @@
 {
   "genshin": {
     "character": {
-      "name": "Lauma",
-      "match": ["lauma", "lauma / nefer", "nefer"],
-      "image": "genshin/lauma-2026-05.webp"
+      "name": "Nicole",
+      "match": [
+        "nicole"
+      ],
+      "image": "genshin/Nicole_Splash.webp"
     },
     "weapon": {
       "name": "Current Genshin Weapon",
-      "match": ["weapon", "weapon_banner", "current weapon banner", "reliquary of truth", "nightweavers looking glass"],
+      "match": [
+        "weapon",
+        "weapon_banner",
+        "current weapon banner",
+        "reliquary of truth",
+        "nightweavers looking glass"
+      ],
       "image": "genshin/lauma-weapon-2026-05.webp"
     }
   },
   "wuwa": {
     "character": {
       "name": "Hiyuki",
-      "match": ["hiyuki"],
+      "match": [
+        "hiyuki"
+      ],
       "image": "wuwa/hiyuki-2026-05.webp"
     },
     "weapon": {
       "name": "Frostburn",
-      "match": ["frostburn"],
+      "match": [
+        "frostburn"
+      ],
       "image": "wuwa/frostburn-2026-05.webp"
     }
   }
