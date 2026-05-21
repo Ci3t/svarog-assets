@@ -19,18 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Hiyuki",
+      "name": "Denia",
       "match": [
-        "hiyuki"
+        "denia"
       ],
-      "image": "wuwa/hiyuki-2026-05.webp"
+      "image": "wuwa/Denia_Character_Sheet.webp"
     },
     "weapon": {
-      "name": "Frostburn",
+      "name": "Forged Dwarf Star",
       "match": [
-        "frostburn"
+        "forged dwarf star"
       ],
-      "image": "wuwa/frostburn-2026-05.webp"
+      "image": "wuwa/forged-dwarf-star.webp"
     }
   }
 }
