@@ -19,18 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Denia",
+      "name": "Lucy",
       "match": [
-        "denia"
+        "lucy"
       ],
-      "image": "wuwa/Denia_Character_Sheet.webp"
+      "image": "wuwa/Lucy.webp"
     },
     "weapon": {
-      "name": "Forged Dwarf Star",
+      "name": "Spectral Trigger",
       "match": [
-        "forged dwarf star"
+        "spectral trigger"
       ],
-      "image": "wuwa/forged-dwarf-star.webp"
+      "image": "wuwa/Spectral_trigger.webp"
     }
   }
 }
