@@ -1,20 +1,20 @@
 {
   "genshin": {
     "character": {
-      "name": "Nicole",
+      "name": "Lohen",
       "match": [
-        "nicole"
+        "lohen"
       ],
-      "image": "genshin/Nicole_Splash.webp"
+      "image": "genshin/Lohen.webp"
     },
     "weapon": {
-      "name": "Nicole Weapon",
+      "name": "Lohen Weapon",
       "match": [
         "weapon",
-        "nicole weapon",
+        "lohen weapon",
         "weapon banner"
       ],
-      "image": "genshin/Nicole_weapon_Splash.webp"
+      "image": "genshin/Lohen_Weapon.png"
     }
   },
   "wuwa": {
