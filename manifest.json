@@ -19,18 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Lucy",
+      "name": "Lucilla",
       "match": [
-        "lucy"
+        "lucilla"
       ],
-      "image": "wuwa/Lucy.webp"
+      "image": "wuwa/Lucilla.webp"
     },
     "weapon": {
-      "name": "Spectral Trigger",
+      "name": "Freeze Frame",
       "match": [
-        "spectral trigger"
+        "freeze frame"
       ],
-      "image": "wuwa/Spectral_trigger.webp"
+      "image": "wuwa/Freeze_Frame.webp"
     }
   }
 }
