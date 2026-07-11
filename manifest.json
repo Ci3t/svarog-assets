@@ -19,18 +19,20 @@
   },
   "wuwa": {
     "character": {
-      "name": "Lucilla",
+      "name": "Yangyang Xuanling",
       "match": [
-        "lucilla"
+        "yangyang xuanling",
+        "yangyang",
+        "xuanling"
       ],
-      "image": "wuwa/Lucilla.webp"
+      "image": "wuwa/Yangyang_Xuanling.webp"
     },
     "weapon": {
-      "name": "Freeze Frame",
+      "name": "Azure Oath",
       "match": [
-        "freeze frame"
+        "azure oath"
       ],
-      "image": "wuwa/Freeze_Frame.webp"
+      "image": "wuwa/Weapon_Azure_Oath.webp"
     }
   }
 }
