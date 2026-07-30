@@ -19,20 +19,19 @@
   },
   "wuwa": {
     "character": {
-      "name": "Yangyang Xuanling",
+      "name": "Suisui",
       "match": [
-        "yangyang xuanling",
-        "yangyang",
-        "xuanling"
+        "suisui"
       ],
-      "image": "wuwa/Yangyang_Xuanling.webp"
+      "image": "wuwa/Suisui.webp"
     },
     "weapon": {
-      "name": "Azure Oath",
+      "name": "Firstlight's Herald",
       "match": [
-        "azure oath"
+        "firstlights herald",
+        "firstlight's herald"
       ],
-      "image": "wuwa/Weapon_Azure_Oath.webp"
+      "image": "wuwa/Weapon_Firstlights_Herald.webp"
     }
   }
 }
