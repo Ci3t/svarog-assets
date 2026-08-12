@@ -1,20 +1,20 @@
 {
   "genshin": {
     "character": {
-      "name": "Sandrone",
+      "name": "Odette",
       "match": [
-        "sandrone"
+        "odette"
       ],
-      "image": "genshin/Sandrone_Splash.webp"
+      "image": "genshin/Odette_Splash.webp"
     },
     "weapon": {
-      "name": "Sandrone Weapon",
+      "name": "Odette Weapon",
       "match": [
         "weapon",
-        "sandrone weapon",
+        "odette weapon",
         "weapon banner"
       ],
-      "image": "genshin/Sandrone_weapon_Splash.webp"
+      "image": "genshin/Odette_weapon_Splash.webp"
     }
   },
   "wuwa": {
