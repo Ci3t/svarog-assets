@@ -19,19 +19,20 @@
   },
   "wuwa": {
     "character": {
-      "name": "Suisui",
+      "name": "Qingxiao",
       "match": [
-        "suisui"
+        "qingxiao"
       ],
-      "image": "wuwa/Suisui.webp"
+      "image": "wuwa/Qingxiao_Splash.webp"
     },
     "weapon": {
-      "name": "Firstlight's Herald",
+      "name": "Qingxiao Weapon",
       "match": [
+        "qingxiao weapon",
         "firstlights herald",
         "firstlight's herald"
       ],
-      "image": "wuwa/Weapon_Firstlights_Herald.webp"
+      "image": "wuwa/Qingxiao_weapon_Splash.webp"
     }
   }
 }
