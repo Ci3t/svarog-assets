@@ -19,20 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Qingxiao",
+      "name": "Jingran",
       "match": [
-        "qingxiao"
+        "jingran"
       ],
-      "image": "wuwa/Qingxiao_Splash.webp"
+      "image": "wuwa/Jingran_Splash.webp"
     },
     "weapon": {
-      "name": "Qingxiao Weapon",
+      "name": "Thousandfold Deliverance",
       "match": [
-        "qingxiao weapon",
-        "firstlights herald",
-        "firstlight's herald"
+        "thousandfold deliverance"
       ],
-      "image": "wuwa/Qingxiao_weapon_Splash.webp"
+      "image": "wuwa/Weapon_Thousandfold_Deliverance.webp"
     }
   }
 }
