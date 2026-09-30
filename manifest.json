@@ -19,18 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Jingran",
+      "name": "Hsin",
       "match": [
-        "jingran"
+        "hsin"
       ],
-      "image": "wuwa/Jingran_Splash.webp"
+      "image": "wuwa/Hsin_Splash.webp"
     },
     "weapon": {
-      "name": "Thousandfold Deliverance",
+      "name": "Blooming Jadehaven",
       "match": [
-        "thousandfold deliverance"
+        "blooming jadehaven"
       ],
-      "image": "wuwa/Weapon_Thousandfold_Deliverance.webp"
+      "image": "wuwa/blooming-jadehaven.webp"
     }
   }
 }
