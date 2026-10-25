@@ -19,18 +19,18 @@
   },
   "wuwa": {
     "character": {
-      "name": "Hsin",
+      "name": "Suoming",
       "match": [
-        "hsin"
+        "suoming"
       ],
-      "image": "wuwa/Hsin_Splash.webp"
+      "image": "wuwa\\Suoming_Splash.webp"
     },
     "weapon": {
-      "name": "Blooming Jadehaven",
+      "name": "Unspoken_Rue",
       "match": [
-        "blooming jadehaven"
+        "unspoken_rue"
       ],
-      "image": "wuwa/blooming-jadehaven.webp"
+      "image": "wuwa\\Weapon_Unspoken_Rue.webp"
     }
   }
 }
