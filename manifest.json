@@ -1,20 +1,20 @@
 {
   "genshin": {
     "character": {
-      "name": "Skirk",
+      "name": "Mitya",
       "match": [
-        "skirk"
+        "mitya"
       ],
-      "image": "genshin\\Skirk_Splash.webp"
+      "image": "genshin\\Mitya_Splash.webp"
     },
     "weapon": {
-      "name": "Azurelight",
+      "name": "Starsealed",
       "match": [
         "weapon",
-        "azurelight",
+        "starsealed",
         "weapon banner"
       ],
-      "image": "genshin\\Skirk_weapon_Splash.webp"
+      "image": "genshin\\mitya_weapon_Splash.webp"
     }
   },
   "wuwa": {
